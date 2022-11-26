@@ -7,6 +7,7 @@
 # hooks are run. This is preliminary, and hopefully, these restrictions are 
 # lifted to run these checks on all the files in the repository. 
 
+exclude: '^(?!exptnbs/)'
 repos:
   - repo: https://github.com/psf/black
     rev: 22.3.0
