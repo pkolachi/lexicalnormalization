@@ -1,0 +1,4 @@
+[isort]
+line_length = 79
+py_version = 37
+profile = black
