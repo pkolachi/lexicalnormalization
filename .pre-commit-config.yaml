@@ -1,65 +1,92 @@
 # See https://pre-commit.com for more information
 # See https://pre-commit.com/hooks.html for more hooks
-# See https://pre-commit.com/index.html#config-files for how-to-use config files
-#
-# See https://towardsdatascience.com/getting-started-with-python-pre-commit-hooks-28be2b2d09d5
-# for a tutorial on getting started with pre-commit hooks. This tutorial uses
-# poetry and other tools in the stack; but the example pre-commit-config.yaml
-# is "more tweaked" compared to other examples I have come across.
-#
-# See https://engineeringfordatascience.com/posts/pre_commit_yaml/ for how to
-# use pre-commit in data science projects. The sample pre-commit-config.yaml
-# file (in a somewhat modified form) is what is used here.
-#
-# See https://ljvmiranda921.github.io/notebook/2018/06/21/precommits-using-black-and-flake8/
-# for how black and flake8 are not compatible out-of-the-box. The additional
-# arguments to these two tools listed below, are meant to find agreement
-# between best practises in these two worlds.
 #
 # I deliberately left all repos to be remote, to avoid installing any
 # extraneous packages that are not relevant to the project.
+# Additionally, this configuration severely restricts the files on which these
+# hooks are run. This is preliminary, and hopefully, these restrictions are 
+# lifted to run these checks on all the files in the repository. 
 
 repos:
   - repo: https://github.com/psf/black
     rev: 22.3.0
     hooks:
       - id: black-jupyter
-        args: ["--config=./.black"]
+        args: ["--config=./pyproject.toml"]
+        types_or: [python, jupyter] 
+      - id: black
+        args: ["--config=./pyproject.toml"]
+        types_or: [python]
+
+  - repo: https://github.com/PyCQA/isort
+    rev: 5.10.1
+    hooks:
+      - id: isort
+        args: ["--sp=./.isort.cfg"]
+        types_or: [python]
+
+  - repo: https://github.com/PyCQA/flake8
+    rev: 5.0.4
+    hooks:
+      - id: flake8
+        args: [
+          "--config=./.flake8.cfg",
+          "--exit-zero",
+        ]
+        types_or: [python]
 
   - repo: https://github.com/nbQA-dev/nbQA
     rev: 1.3.1
     hooks:
-      - id: nbqa-isort
-        args: ["--sp=./.isort"]
       - id: nbqa-black
-        args: ["--config=./.black"]
-        # - id: nbqa-flake8
-        # args: ["--config=./.flake8"]
+        args: ["--config=./pyproject.toml"]
+        types_or: [python, jupyter]
+      - id: nbqa-check-ast
+        types_or: [python, jupyter]
+      - id: nbqa-isort
+        args: ["--sp=./.isort.cfg"]
+        types_or: [python, jupyter]
+      - id: nbqa-flake8
+        args: [
+          "--config=./.flake8.cfg",
+          "--exit-zero",
+        ]
+        types_or: [python, jupyter]
       - id: nbqa-pyupgrade
         args: ["--py36-plus"]
+        types_or: [python, jupyter]
 
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.2.0
     hooks:
-      - id: trailing-whitespace
-      - id: mixed-line-ending
       - id: end-of-file-fixer
+        types_or: [python, jupyter]
+      - id: trailing-whitespace
+        types_or: [python, jupyter]
+      - id: mixed-line-ending
+        types_or: [python, jupyter]
       - id: requirements-txt-fixer
       - id: pretty-format-json
       - id: sort-simple-yaml
+      - id: check-ast
+        types_or: [python]
       - id: check-json
       - id: check-xml
       - id: check-yaml
       - id: check-case-conflict
       - id: check-added-large-files
+        args: ["--maxkb=10240"]  # 10MB max
 
   - repo: https://github.com/Lucas-C/pre-commit-hooks
     rev: v1.1.13
     hooks:
       - id: forbid-tabs
+        types_or: [python, jupyter]
       - id: forbid-crlf
+        types_or: [python, jupyter]
 
-  - repo: https://github.com/kynan/nbstripout
-    rev: 0.5.0
-    hooks:
-      - id: nbstripout
+ #- repo: https://github.com/kynan/nbstripout
+ #  rev: 0.5.0
+ #  hooks:
+ #    - id: nbstripout
+ #      types_or: [python, jupyter]

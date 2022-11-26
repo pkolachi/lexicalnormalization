@@ -1,0 +1,40 @@
+[dependencies]
+fasttext     = "0.9.1" 
+Jinja2       = "3.1.2" 
+matplotlib   = "3.5.2" 
+numpy        = "1.21.4" 
+openpyxl     = "3.0.9" 
+pandas       = "1.4.2" 
+pre-commit   = "2.19.0"
+scikit-learn = "0.24.1"
+scipy        = "1.8.0"
+
+[dev-dependencies]
+black = { version = "22.3.0", python = "^3.7" }
+flake8 = { version = "4.0.1"  } 
+isort = { version = "5.10.1" }
+mypy = { version = "0.950"  }
+
+
+[tool.black]
+line-length = 79
+target-version = ['py37']
+include = '\.pyi?$'
+
+
+[tool.flake8]
+max-line-length = 79
+max-complexity = 10 
+indent-size = 2 
+ignore = "E302,E305,E402,F811,W503"
+
+
+[tool.isort]
+line_length = 79 
+py_version = 37   # 3.7
+profile = "black"
+
+
+[tool.mypy]
+python_version = "3.7"
+
