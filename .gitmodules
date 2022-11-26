@@ -1,0 +1,3 @@
+[submodule "multilexnorm"]
+	path = multilexnorm
+	url = https://bitbucket.org/robvanderg/multilexnorm.git
