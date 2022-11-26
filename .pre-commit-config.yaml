@@ -33,8 +33,8 @@ repos:
         args: ["--sp=./.isort"]
       - id: nbqa-black
         args: ["--config=./.black"]
-      - id: nbqa-flake8
-        args: ["--config=./.flake8"]
+        # - id: nbqa-flake8
+        # args: ["--config=./.flake8"]
       - id: nbqa-pyupgrade
         args: ["--py36-plus"]
 
