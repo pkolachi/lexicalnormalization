@@ -1,0 +1,2518 @@
+,Language,Noisy text,Normalized text,Counts
+0,Danish,1.virusstreng,1. virusstreng,1
+2,Danish,3.verdenskrig,3. verdenskrig,1
+23,Danish,afhngig,afhængig,1
+24,Danish,aktespterre,aktespterer,1
+26,Danish,alrdig,aldrig,1
+25,Danish,aldriq,aldrig,1
+28,Danish,altsa,altså,3
+27,Danish,alts,altså,1
+29,Danish,ansøqt,ansøgt,1
+31,Danish,arb.markedet,arbejsmarkedet,1
+7,Danish,a,at,4
+8,Danish,a t,at,2
+37,Danish,autoqraf,autograf,1
+38,Danish,awsomeste,awesomeste,1
+45,Danish,bby,baby,2
+40,Danish,badevaerelset,badeværelset,1
+44,Danish,baggarden,baggården,1
+46,Danish,bedeen,bede en,1
+49,Danish,bedsteforldre,bedsteforældre,1
+47,Danish,bedmme,bedømme,1
+50,Danish,behyndte,begyndte,1
+51,Danish,bekraeftet,bekræftet,1
+52,Danish,bemaerket,bemærket,1
+48,Danish,bedmme,bestemme,1
+54,Danish,besvaeret,besværet,1
+55,Danish,besvaerlig,besværlig,1
+53,Danish,besaettelse,besættelse,1
+56,Danish,billedkvali,billedkvalitet,1
+58,Danish,bli,blive,2
+59,Danish,blir,bliver,5
+62,Danish,bloog,blog,1
+61,Danish,blokere,bloker,1
+57,Danish,bla,blå,1
+60,Danish,blkregning,blækregning,1
+69,Danish,braendalarmen,brandalarmen,1
+68,Danish,braemsespor,bremsespor,1
+72,Danish,bruqe,bruge,2
+65,Danish,braek,bræk,1
+66,Danish,braekkede,brækkede,1
+67,Danish,braekker,brækker,1
+39,Danish,bade,både,1
+41,Danish,baer,bær,1
+42,Danish,baerer,bærer,2
+43,Danish,baeres,bæres,1
+70,Danish,brn,børn,3
+71,Danish,brnepasning,børnepasning,1
+73,Danish,chillarn,chilleren,1
+74,Danish,chokolade-bar,chokoladebar,2
+80,Danish,dagobog,dagbog,1
+79,Danish,dag,dage,1
+87,Danish,deejliige,dejliige,1
+88,Danish,dem,den,1
+103,Danish,dr,der,1
+95,Danish,det,der,1
+90,Danish,destromindre,desto mindre,1
+93,Danish,desvaerre,desværre,6
+94,Danish,desvrre,desværre,1
+92,Danish,desvaerer,desværre,1
+91,Danish,desv,desværre,1
+86,Danish,deee,det,1
+76,Danish,d,det,1
+97,Danish,diagnoser .,diagnoser,1
+101,Danish,diq,dig,4
+99,Danish,diig,dig,1
+100,Danish,diin,din,2
+102,Danish,diskoterede,diskuterede,1
+104,Danish,draeber,dræber,1
+107,Danish,dvs,dvs.,1
+106,Danish,dvaerg,dværg,1
+109,Danish,dårligt,dårlig,1
+81,Danish,darlig,dårlig,1
+82,Danish,darligt,dårligt,1
+78,Danish,daekket,dækket,1
+83,Danish,dd,død,3
+84,Danish,dde,døde,4
+85,Danish,dden,døden,1
+96,Danish,dgn,døgn,1
+105,Danish,dren,døren,1
+113,Danish,ejj,ej,3
+110,Danish,eej,ej,1
+124,Danish,ex-kaereste,ekskæreste,1
+693,Danish,xtra,ekstra,1
+115,Danish,el.,eller,2
+116,Danish,el.lign,eller lignende,1
+695,Danish,ææælsker,elsker,1
+694,Danish,ælsker,elsker,1
+111,Danish,een,en,1
+118,Danish,endu,endnu,1
+119,Danish,englaenderne,englænderne,2
+120,Danish,enmandshaeren,enmandshæren,1
+523,Danish,r,er,3
+121,Danish,er-musik,er musik,2
+117,Danish,en,et,1
+122,Danish,etpartiregring,etpartiregering,1
+123,Danish,eviiiigt,evigt,1
+194,Danish,fx,f.eks.,4
+142,Danish,fb,facebook,1
+130,Danish,facebook-ven,facebook ven,1
+137,Danish,faldte,faldt,1
+139,Danish,famillie,familie,1
+138,Danish,familie-medlemmer,familiemedlemmer,1
+140,Danish,fanme,fandme,1
+145,Danish,filmven,film ven,1
+152,Danish,flesteet,fleste,1
+156,Danish,fof,for,1
+141,Danish,far,for,1
+175,Danish,fortiden,for tiden,1
+155,Danish,fodi,fordi,1
+159,Danish,forelskelse,forelskede,1
+161,Danish,forfaerdeliqt,forfaerdeligt,1
+162,Danish,forfrdeligt,forfærdeligt,1
+160,Danish,forfaerdeligt,forfærdeligt,1
+163,Danish,forkaelet,forkælet,1
+166,Danish,forlovses,forlovelses,1
+168,Danish,forskelliqe,forskellige,1
+169,Danish,forsta,forstå,5
+170,Danish,forstaet,forstået,1
+172,Danish,forstr,forstår,2
+171,Danish,forstar,forstår,1
+167,Danish,forsaetter,forsætter,1
+177,Danish,fortraenge,fortrænge,1
+178,Danish,fortsaetter,fortsætter,2
+173,Danish,fortaelle,fortælle,1
+174,Danish,fortaeller,fortæller,1
+176,Danish,fortller,fortæller,1
+164,Danish,forldre,forældre,3
+157,Danish,foraeldre,forældre,2
+179,Danish,forældre-generation,forældregeneration,1
+165,Danish,forldrene,forældrene,1
+158,Danish,foraeldrenes,forældrenes,1
+183,Danish,franskmaend,franskmænd,1
+186,Danish,fremgar,fremgår,1
+189,Danish,frygt-gruppe,frygt gruppe,1
+182,Danish,fraek,fræk,2
+190,Danish,fuldmane,fuldmåne,1
+191,Danish,fuldmanen,fuldmånen,1
+193,Danish,fuldstndig,fuldstændig,2
+192,Danish,fuldstaendigt,fuldstændigt,1
+126,Danish,fa,få,4
+128,Danish,faa,få,3
+125,Danish,f,få,2
+144,Danish,fet,fået,6
+135,Danish,faet,fået,3
+180,Danish,fr,får,2
+129,Danish,faar,får,1
+127,Danish,fa,får,1
+131,Danish,fael,fæl,1
+132,Danish,faenomenale,fænomenale,1
+133,Danish,faerdig,færdig,1
+184,Danish,frdig,færdig,1
+185,Danish,frdige,færdige,1
+134,Danish,faergen,færgen,2
+136,Danish,faetter,fætter,1
+143,Danish,fdselsdagssange,fødselsdagssange,1
+146,Danish,fle,føle,1
+147,Danish,flelse,følelse,1
+148,Danish,flelsen,følelsen,1
+149,Danish,flelser,følelser,3
+150,Danish,fler,føler,10
+151,Danish,fles,føles,1
+153,Danish,flge,følge,1
+154,Danish,flger,følger,2
+181,Danish,fr,før,1
+195,Danish,føre,fører,1
+187,Danish,frst,først,1
+188,Danish,frste,første,1
+519,Danish,qanqe,gange,1
+205,Danish,ginial,genial,1
+202,Danish,gennemgaet,gennemgået,1
+203,Danish,gennemgs,gennemgås,1
+213,Danish,goergh,george,1
+520,Danish,qerne,gerne,1
+521,Danish,qive,give,1
+207,Danish,gjordt,gjort,1
+211,Danish,glimmet,glimtet,1
+208,Danish,glaede,glæde,3
+209,Danish,glaeden,glæden,1
+210,Danish,glaeder,glæder,3
+212,Danish,go,god,1
+204,Danish,get,godt,1
+206,Danish,girne,grine,1
+218,Danish,grd,græd,3
+216,Danish,graede,græde,2
+219,Danish,grde,græde,1
+220,Danish,grder,græder,1
+217,Danish,graeder,græder,1
+222,Danish,grnsen,grænsen,2
+223,Danish,gutter'n,gutterne,1
+198,Danish,gaet,gået,1
+199,Danish,gar,går,7
+214,Danish,gr,går,5
+200,Danish,garsdagens,gårsdagens,1
+201,Danish,gaturer,gåture,1
+196,Danish,gaest,gæst,1
+197,Danish,gaestebogen,gæstebogen,1
+215,Danish,gr,gør,3
+224,Danish,gøre,gør,2
+221,Danish,gre,gør,1
+239,Danish,hamre,hamrer,1
+228,Danish,haar,har,1
+225,Danish,ha,have,3
+3,Danish,_hej,hej,1
+227,Danish,haaj,hej,1
+226,Danish,haai,hej,1
+247,Danish,hende,hendes,2
+248,Danish,hjaelp,hjælp,5
+249,Danish,hjaelpe,hjælpe,5
+250,Danish,hjaelpende,hjælpende,1
+252,Danish,hjlper,hjælper,1
+251,Danish,hjaelper,hjælper,1
+255,Danish,hovede,hoved,1
+256,Danish,hovedt,hovedet,1
+254,Danish,hoved,hovedet,1
+259,Danish,hva,hvad,8
+260,Danish,hvertfald,hvert fald,1
+684,Danish,vilken,hvilken,1
+108,Danish,där,hvor,1
+258,Danish,hv0rf0r,hvorfor,1
+263,Danish,hvornr,hvornår,5
+262,Danish,hvornar,hvornår,2
+261,Danish,hvorn,hvornår,1
+264,Danish,hvorpa,hvorpå,1
+229,Danish,hab,håb,1
+230,Danish,habefulde,håbefulde,1
+246,Danish,hber,håber,2
+231,Danish,haber,håber,1
+253,Danish,hnd,hånd,2
+240,Danish,hand,hånd,1
+241,Danish,handbold'traener,håndboldtræner,1
+242,Danish,handtaget,håndtaget,1
+243,Danish,har,hår,5
+244,Danish,hardag,hårdag,1
+245,Danish,hardt,hårdt,4
+232,Danish,haenderne,hænderne,1
+233,Danish,haeren,hæren,1
+234,Danish,haevn,hævn,4
+235,Danish,haevne,hævne,2
+236,Danish,haevnen,hævnen,1
+237,Danish,haevnlyst,hævnlyst,1
+238,Danish,haevnlysten,hævnlysten,1
+266,Danish,hører,høre,1
+257,Danish,hrer,høre,1
+265,Danish,høre,hører,1
+275,Danish,ii,i,1
+267,Danish,idag,i dag,7
+271,Danish,igang,i gang,2
+273,Danish,igår,i går,1
+272,Danish,igr,i går,1
+274,Danish,ihvertfald,i hvert fald,2
+279,Danish,imorgen,i morgen,1
+291,Danish,istedet,i stedet,1
+290,Danish,isteden,i stedet,1
+292,Danish,ivejen,i vejen,1
+293,Danish,iøvrigt,i øvrigt,1
+268,Danish,iden,idéen,1
+269,Danish,ift,ift.,1
+287,Danish,iqen,igen,1
+288,Danish,iqennem,igennem,1
+278,Danish,ikk,ikke,16
+277,Danish,ik,ikke,11
+114,Danish,ek,ikke,6
+112,Danish,ehk,ikke,2
+276,Danish,iik,ikke,2
+281,Danish,indebaere,indebære,1
+282,Danish,indlaeg,indlag,1
+283,Danish,indrmme,indrømme,1
+284,Danish,indtrder,indtærder,1
+280,Danish,indanding,indånding,1
+4,Danish,_ingen,ingen,1
+285,Danish,interes,interesse,1
+286,Danish,intw,interview,1
+289,Danish,isr,især,1
+294,Danish,jae,ja,1
+296,Danish,jalouxi,jalousi,7
+298,Danish,jeq,jeg,11
+5,Danish,_jeg,jeg,1
+300,Danish,jubiiiiii,jubi,1
+301,Danish,jubilaeum,jubilæum,1
+295,Danish,jaevnligt,jævnligt,1
+302,Danish,ka,kan,4
+312,Danish,kanon-konge,kanon konge,1
+303,Danish,kaat,kat,1
+314,Danish,kedte,kendte,1
+317,Danish,klaer,klæder,1
+318,Danish,knae,knaæ,1
+319,Danish,knaebbe,kneppe,1
+320,Danish,knaebber,knepper,1
+321,Danish,knaegt,knægt,1
+322,Danish,koldingstorcenter,kolding storcenter,1
+75,Danish,collagen,kollagen,3
+324,Danish,kolleger,kollegaer,1
+323,Danish,kollegar,kollegaer,1
+325,Danish,kommentare,kommentarer,2
+326,Danish,kommentator-uge,kommentator uge,1
+329,Danish,kont. hjælpmodtagere,kontanthjælpsmodtagere,1
+330,Danish,kontrolle,kontrollere,1
+336,Danish,krft,kræft,4
+337,Danish,krften,kræften,1
+331,Danish,kraefter,kræfter,3
+338,Danish,krfter,kræfter,1
+340,Danish,krver,kræver,2
+332,Danish,kraever,kræver,1
+341,Danish,krves,kræves,1
+342,Danish,ku,kunne,1
+343,Danish,kvaern,kværn,1
+313,Danish,karet,kåret,1
+304,Danish,kaeft,kæft,1
+305,Danish,kaelderen,kælderen,1
+306,Danish,kaemper,kæmper,1
+333,Danish,kre,kære,1
+334,Danish,kreste,kæreste,2
+307,Danish,kaereste,kæreste,2
+311,Danish,kaerste,kæreste,2
+308,Danish,kaeresten,kæresten,1
+309,Danish,kaerester,kærester,1
+335,Danish,krester,kærester,1
+310,Danish,kaerlighed,kærlighed,1
+315,Danish,kierlighed,kærlighed,1
+344,Danish,kærlighed .,kærlighed,1
+345,Danish,kærlighed'-par,kærlighed par,1
+339,Danish,krligheden,kærligheden,2
+346,Danish,købene,købende,1
+316,Danish,kjøwenhavneri,københavneri,1
+347,Danish,kølskabs-smørbart,kølskabssmørbart,1
+372,Danish,landsholdsmal,landsholdsmål,1
+350,Danish,laaaang,lang,1
+349,Danish,laaaaaaang,lang,1
+379,Danish,liqe,lige,1
+377,Danish,ligeså,lige så,1
+375,Danish,ligefr,ligefør,1
+376,Danish,ligegald-området,ligegald området,1
+378,Danish,lilleby,lille by,1
+380,Danish,livsglde,livsglæde,1
+385,Danish,looove,love,1
+391,Danish,luk,lukke,1
+348,Danish,la,lå,4
+351,Danish,lae,læ,1
+352,Danish,laeber,læber,1
+353,Danish,laeberne,læberne,2
+354,Danish,laegen,lægen,1
+355,Danish,laegerne,lægerne,1
+356,Danish,laegge,lægge,1
+357,Danish,laegger,lægger,2
+358,Danish,laekker,lækker,8
+359,Danish,laenge,længe,5
+382,Danish,lnge,længe,2
+383,Danish,lngere,længere,2
+360,Danish,laengere,længere,2
+384,Danish,lngst,længst,1
+361,Danish,laengst,længst,1
+362,Danish,laer,lær,1
+363,Danish,laere,lære,2
+386,Danish,lre,lære,1
+365,Danish,laerer,lærer,1
+364,Danish,laerende,lærerne,2
+366,Danish,laes,læs,3
+387,Danish,lse,læse,1
+367,Danish,laese,læse,1
+388,Danish,lser,læser,1
+368,Danish,laeser,læser,1
+369,Danish,laesere,læsere,1
+370,Danish,laesning,læsning,2
+371,Danish,laest,læst,1
+373,Danish,ld,lød,1
+392,Danish,løkkes,løkke,1
+389,Danish,lsning,løsning,1
+390,Danish,lst,løst,1
+420,Danish,mann,man,1
+416,Danish,man,mand,2
+397,Danish,maaayn,mand,1
+396,Danish,maaain,mand,1
+395,Danish,maaaaaan,mand,1
+398,Danish,maan,mand,1
+417,Danish,mande,mand,1
+421,Danish,manqe,mange,2
+425,Danish,meddelser,meddelelser,1
+427,Danish,mega'glad,mega glad,1
+428,Danish,mega-sjov,mega sjov,1
+426,Danish,meeget,meget,1
+429,Danish,menning,mening,1
+430,Danish,mer,mere,1
+431,Danish,micheal,michael,1
+438,Danish,miq,mig,3
+434,Danish,miiq,mig,1
+432,Danish,miig,mig,1
+433,Danish,miin,min,2
+436,Danish,minpige,min pige,3
+437,Danish,minut.vi,minut. vi,1
+439,Danish,misforstaet,misforstået,1
+435,Danish,miit,mit,1
+440,Danish,modes,modnes,1
+441,Danish,modsaetning,modsætning,1
+442,Danish,modstninger,modsætninger,1
+446,Danish,muliqe,mulige,1
+448,Danish,muuuuligt,muligt,1
+447,Danish,munder,munden,1
+394,Danish,ma,må,8
+393,Danish,m,må,1
+399,Danish,made,måde,5
+423,Danish,mde,måde,3
+449,Danish,måder,måde,1
+400,Danish,mader,måder,1
+410,Danish,mal,mål,3
+411,Danish,malhelt,målhelt,1
+412,Danish,malmand,målmand,2
+413,Danish,malscorer,målscore,1
+414,Danish,maltavlen,måltavlen,1
+415,Danish,maltyv,måltyv,1
+418,Danish,manedens,månedens,1
+419,Danish,maneder,måneder,5
+450,Danish,mån,måneder,1
+424,Danish,mdl,månedligt,1
+445,Danish,mske,måske,2
+422,Danish,matte,måtte,1
+401,Danish,maegtig,mægtig,1
+402,Danish,maegtige,mægtige,1
+403,Danish,maend,mænd,1
+404,Danish,maerke,mærke,1
+405,Danish,maerkedage,mærkedage,1
+444,Danish,mrkede,mærkede,1
+406,Danish,maerkede,mærkede,1
+408,Danish,maerkeliqe,mærkeligt,1
+407,Danish,maerkeligt,mærkeligt,1
+409,Danish,maerker,mærker,1
+443,Danish,mrke,mørke,1
+463,Danish,nattebesøge,nattebesøg,1
+456,Danish,naej,nej,1
+464,Danish,niiice,nice,1
+467,Danish,nogne,nogen,1
+466,Danish,nogle,nogen,1
+468,Danish,noqenlunde,nogenlunde,1
+469,Danish,noqet,noget,3
+465,Danish,nogen,nogle,1
+477,Danish,ny,nu,1
+474,Danish,nuet,nu'et,1
+475,Danish,nullermaend,nullermænd,1
+476,Danish,nuvaerende,nuværende,1
+461,Danish,naet,nået,1
+462,Danish,nar,når,8
+470,Danish,nr,når,5
+453,Danish,na,når,1
+451,Danish,n,når,1
+454,Danish,naeae,næ,1
+452,Danish,n,næ,1
+455,Danish,naegter,nægter,1
+471,Danish,nrmest,nærmest,2
+457,Danish,naesen,næsen,1
+458,Danish,naeste,næste,3
+459,Danish,naesten,næsten,7
+472,Danish,nsten,næsten,3
+460,Danish,naestved,næstved,1
+473,Danish,ntterne,nætterne,1
+478,Danish,nøøøj,nøj,1
+491,Danish,oq,og,3
+270,Danish,ig,og,1
+480,Danish,ogsa,også,26
+479,Danish,ogs,også,6
+493,Danish,os,også,2
+494,Danish,osse,også,1
+492,Danish,oqs,også,1
+482,Danish,okey,okay,1
+481,Danish,okah,okay,1
+483,Danish,omrader,områder,1
+485,Danish,opfattelse,opfattelser,1
+486,Danish,opmaerksomhed,opmærksomhed,1
+488,Danish,opsta,opstå,1
+487,Danish,opsaetning,opsætning,1
+490,Danish,optraede,optræde,1
+489,Danish,optr æden,optræden,1
+495,Danish,overhovdet,overhovedet,1
+496,Danish,overstte,oversætte,1
+507,Danish,penqe,penge,1
+508,Danish,pga,pga.,4
+509,Danish,piqe,pige,1
+510,Danish,plz,please,1
+511,Danish,pokal-bold,pokal bold,1
+512,Danish,pokal-charme,pokal charme,1
+513,Danish,poltiker-snak,poltiker snak,1
+514,Danish,prcis,præcis,1
+515,Danish,prv,prøv,1
+516,Danish,prve,prøve,1
+517,Danish,prvet,prøvet,3
+518,Danish,psykobilled,psykobillede,1
+498,Danish,pa,på,67
+497,Danish,p,på,17
+499,Danish,paa,på,7
+505,Danish,pagaeldende,pågældende,1
+506,Danish,pavirket,påvirket,1
+500,Danish,paedofile,pædofile,2
+501,Danish,paedofiles,pædofiles,1
+502,Danish,paedofili,pædofili,1
+13,Danish,aedofili,pædofili,1
+503,Danish,paen,pæn,4
+504,Danish,paenere,pænere,1
+522,Danish,qr,qør,1
+527,Danish,racistisk,racistiske,2
+528,Danish,repraesentanter,repræsentanter,1
+529,Danish,retter,rettere,1
+530,Danish,rigtigk,rigtig,1
+531,Danish,rinqet,ringet,1
+525,Danish,rabe,råbe,2
+526,Danish,rabte,råbte,2
+536,Danish,rådt,råt,1
+532,Danish,rkker,rækker,1
+537,Danish,røqet,røget,1
+534,Danish,rrende,rørende,4
+535,Danish,rver-historier,røver-historier,1
+555,Danish,samn,sammen,1
+566,Danish,senarie,scenarie,1
+561,Danish,seej,sej,1
+562,Danish,sejer,sejere,1
+620,Danish,svel,selv,1
+563,Danish,selvtaegt,selvtægt,1
+564,Danish,selvvaerd,selvværd,1
+89,Danish,der,ser,1
+567,Danish,serie-hold,seriehold,1
+581,Danish,sku,sgu,9
+599,Danish,squ,sgu,4
+598,Danish,sq,sgu,3
+568,Danish,sg,sgu,1
+569,Danish,shirt,shit,1
+570,Danish,sir,siger,2
+589,Danish,soger,siger,1
+98,Danish,diger,siger,1
+573,Danish,sjov,sjove,2
+571,Danish,sjaelden,sjælden,1
+572,Danish,sjaelland,sjælland,2
+576,Danish,skabren,skaberen,1
+6,Danish,_skal_,skal,1
+575,Danish,skaath,skat,1
+579,Danish,skraemmende,skræmmende,1
+582,Danish,sku,skulle,1
+577,Danish,skbnesvanger,skæbnesvanger,1
+574,Danish,sk,skær,1
+580,Danish,skrmen,skærmen,1
+578,Danish,sknt,skønt,1
+587,Danish,sluk,slukke,1
+583,Danish,sla,slå,3
+584,Danish,slaet,slået,1
+586,Danish,slfejl,slåfejl,1
+585,Danish,slar,slår,3
+588,Danish,sma's,små's,1
+592,Danish,specieelt,specielt,1
+593,Danish,spilelr,spiller,1
+594,Danish,spraeller,spræller,1
+590,Danish,spaendende,spændende,2
+591,Danish,spaerrer,spærrer,1
+597,Danish,spørgsmal,spørgsmål,1
+595,Danish,sprgsmlet,spørgsmålet,1
+596,Danish,sprgsmlstegn,spørgsmålstegn,1
+608,Danish,staret,startet,1
+609,Danish,stjaeler,stjæler,1
+604,Danish,sta,stå,2
+607,Danish,star,står,2
+610,Danish,str,står,1
+605,Danish,staerk,stærk,1
+611,Danish,strkt,stærkt,1
+606,Danish,staerkt,stærkt,1
+612,Danish,strste,største,2
+614,Danish,sttte,støtte,1
+619,Danish,svedkon,sved,1
+615,Danish,svaekket,svækket,1
+622,Danish,svr,svær,1
+616,Danish,svaerere,sværere,2
+617,Danish,svaert,svært,2
+623,Danish,svrt,svært,1
+618,Danish,svart,svært,1
+626,Danish,syngdom,sygdom,1
+624,Danish,sygete,sygeste,1
+628,Danish,sys,synes,1
+627,Danish,syntes,synes,1
+625,Danish,syndes,synes,1
+539,Danish,sa,så,41
+538,Danish,s,så,18
+540,Danish,saa,så,7
+630,Danish,såååå,så,2
+629,Danish,sååå,så,1
+553,Danish,sah,så,1
+544,Danish,sae,så,1
+541,Danish,saaaa,så,1
+543,Danish,sadan,sådan,9
+565,Danish,sen,sådan,1
+559,Danish,sdan,sådan,1
+556,Danish,sarn,sådan,1
+542,Danish,saadan,sådan,1
+554,Danish,sakaldte,såkaldte,1
+601,Danish,sret,såret,1
+557,Danish,savel,såvel,2
+545,Danish,saelger,sælger,1
+600,Danish,srdeleshed,særdeleshed,1
+546,Danish,saeriøst,særiøst,1
+547,Danish,saerklasse,særklasse,1
+548,Danish,saerlig,særlig,1
+602,Danish,srlig,særlig,1
+549,Danish,saeson,sæson,7
+550,Danish,saesonen,sæsonen,1
+551,Danish,saetning,sætning,1
+613,Danish,stte,sætte,6
+552,Danish,saetter,sætter,2
+558,Danish,sd,sød,2
+560,Danish,sdt,sødt,1
+631,Danish,sølvørering,sølv ørering,1
+603,Danish,sster,søster,1
+621,Danish,svn,søvn,1
+641,Danish,tankelaesere,tankelæsere,1
+643,Danish,teenage,teenager,1
+644,Danish,teh,the,2
+77,Danish,da,the,1
+645,Danish,tidsgraensen,tidsgrænsen,2
+632,Danish,t,til,1
+646,Danish,tilfaeldigt,tilfældigt,1
+647,Danish,tilfje,tilføje,1
+648,Danish,tilstrkkeligt,tilstrækkeligt,1
+649,Danish,tiltraekke,tiltrække,1
+650,Danish,tittle,title,1
+651,Danish,tjaaa,tja,1
+654,Danish,toiletbraedtet,toiletbrættet,1
+664,Danish,turmalet,tour målet,1
+656,Danish,traek,træk,1
+657,Danish,traekke,trække,1
+658,Danish,traels,træls,1
+662,Danish,trt,træt,1
+659,Danish,traette,trætte,1
+655,Danish,traejen,trøjen,1
+661,Danish,trer,tårer,1
+660,Danish,tre,tårer,1
+642,Danish,tare,tårer,1
+633,Danish,taeller,tæller,1
+634,Danish,taender,tænder,1
+635,Danish,taenk,tænk,2
+636,Danish,taenke,tænke,4
+652,Danish,tnke,tænke,1
+638,Danish,taenker,tænker,6
+653,Danish,tnker,tænker,2
+639,Danish,taenkt,tænkt,1
+637,Danish,taenke,tænkte,1
+663,Danish,tt,tæt,1
+640,Danish,taettere,tættere,2
+665,Danish,tømmermaend,tømmermænd,1
+666,Danish,uff,uf,1
+667,Danish,ulaekkert,ulækkert,1
+1,Danish,1ustoppelig,ustoppelig,1
+682,Danish,vars,var,1
+683,Danish,vernden,verden,1
+686,Danish,virkeliq,virkelig,2
+685,Danish,virkeliiq,virkelig,1
+668,Danish,vad,våd,1
+669,Danish,vaek,væk,10
+670,Danish,vaelg,vælg,2
+671,Danish,vaerd,værd,3
+672,Danish,vaerdifulde,værdifulde,1
+673,Danish,vaere,være,46
+687,Danish,vre,være,10
+675,Danish,vaerer,være,1
+674,Danish,vaerelse,værelse,1
+688,Danish,vrelset,værelset,1
+677,Danish,vaeret,været,21
+689,Danish,vret,været,2
+690,Danish,vrket,værket,1
+678,Danish,vaerre,værre,2
+676,Danish,vaerere,værre,1
+691,Danish,vrste,værste,1
+679,Danish,vaerste,værste,1
+680,Danish,vaertfald,værtfald,2
+681,Danish,vaesentligt,væsentligt,1
+692,Danish,wooow,wow,1
+9,Danish,abenbart,åbenbart,1
+10,Danish,abenlyst,åbenlyst,1
+11,Danish,abne,åbne,1
+63,Danish,bne,åbne,1
+64,Danish,bner,åbner,1
+484,Danish,ondsvagt,åndsvagt,1
+30,Danish,ar,år,5
+524,Danish,r,år,3
+32,Danish,arene,årene,1
+33,Danish,arets,årets,3
+34,Danish,arig,årig,2
+35,Danish,arige,årige,2
+36,Danish,ars,års,2
+12,Danish,aede,æde,1
+14,Danish,aegte,ægte,2
+374,Danish,ldes,ældes,1
+15,Danish,aeldre,ældre,2
+16,Danish,aengstelig,ængstelig,1
+17,Danish,aer,ær,1
+18,Danish,aeren,æren,1
+19,Danish,aerlig,ærlig,2
+533,Danish,rliqt,ærligt,1
+20,Danish,aermet,ærmet,1
+21,Danish,aes,æs,1
+22,Danish,aevn,ævn,1
+696,Danish,ødelaegge,ødelægge,1
+697,Danish,ødelaeggelse,ødelæggelse,1
+698,Danish,ødelaeggende,ødelæggende,1
+297,Danish,jekast,øjekast,1
+299,Danish,jne,øjne,1
+327,Danish,konomisk,økonomisk,1
+328,Danish,konomiske,økonomiske,1
+381,Danish,llen,øllen,1
+699,English,. t,.,1
+701,English,22yr,22 year,1
+709,English,abit,a bit,1
+719,English,ahold,a hold,1
+725,English,alot,a lot,6
+811,English,bout,about,21
+710,English,abt,about,6
+812,English,bouta,about to,4
+813,English,boutta,about to,3
+711,English,acc,accident,1
+712,English,actin,acting,1
+713,English,acttually,actually,1
+714,English,actully,actually,1
+715,English,adress,address,1
+716,English,adultwork,adult work,1
+718,English,afg,afghanistan,1
+720,English,aint,ain't,30
+731,English,anit,ain't,1
+722,English,airrr,air,1
+723,English,alergies,allergies,1
+740,English,aready,already,1
+726,English,alrdy,already,1
+1161,English,ight,alright,2
+724,English,allways,always,2
+707,English,a l w a y s,always,1
+727,English,alwayz,always,1
+1249,English,m,am,2
+728,English,ammmazing,amazing,1
+1295,English,n,and,47
+1303,English,nd,and,11
+708,English,aaand,and,1
+730,English,ang,and,1
+729,English,andd,and,1
+971,English,en,and,1
+732,English,anniv,anniversary,1
+754,English,awnser,answer,1
+755,English,ayebody,anybody,2
+733,English,anyones,anyone,1
+734,English,anywayy,anyway,1
+738,English,appstore,app store,1
+735,English,apperntly,apparently,1
+736,English,appiled,appealed,1
+739,English,appt,appointment,1
+737,English,approching,approaching,1
+1417,English,r,are,22
+721,English,ainy,are not going to,1
+741,English,arent,aren't,5
+717,English,af,as fuck,7
+745,English,asf,as fuck,1
+744,English,asap,as soon as possible,2
+746,English,askin,asking,2
+706,English,a,ass,1
+742,English,arse,ass,1
+1065,English,gagos,asshole,1
+747,English,asst,assistant,1
+1296,English,n,at,1
+748,English,atleast,at least,1
+749,English,atm,at the moment,1
+844,English,cattitude,attitude,1
+751,English,australi,australia,1
+743,English,arthur,author,1
+752,English,ave,avenue,1
+753,English,awks,awkwards,2
+759,English,b comes,b,1
+761,English,babe,baby,2
+770,English,bby,baby,1
+762,English,babyface,baby face,1
+773,English,bck,back,4
+827,English,bsck,back,1
+763,English,badass,bad ass,3
+764,English,bakin,baking,1
+766,English,balmy,balcony,1
+765,English,ballin,balling,1
+768,English,bball,basketball,1
+767,English,battlestar,battle star,1
+757,English,b,be,17
+780,English,beatin,beating,1
+893,English,cuz,because,22
+771,English,bc,because,16
+845,English,cause,because,16
+886,English,cus,because,4
+875,English,coz,because,3
+776,English,bcz,because,2
+805,English,bkuz,because,1
+871,English,cos,because,1
+782,English,becuz,because,1
+775,English,bcs,because,1
+774,English,bcos,because,1
+772,English,bcause,because,1
+888,English,cuss,because,1
+894,English,cuzz,because,1
+781,English,becum,become,1
+760,English,b4,before,4
+785,English,bein,being,2
+784,English,beff,best ever friend forever,1
+783,English,beefff,best ever friend forever,1
+786,English,bestfriend,best friend,2
+788,English,bestie,best friend,1
+787,English,bestfriends,best friends,3
+793,English,bfs,best friends,1
+790,English,betta,better,1
+789,English,betetr,better,1
+791,English,betwn,between,1
+795,English,biiiig,big,1
+796,English,birdi,birdie,1
+777,English,bday,birthday,5
+798,English,biryhday,birthday,1
+797,English,birthdayyy,birthday,1
+834,English,bxtch,bitch,2
+803,English,bitxh,bitch,1
+801,English,bitvh,bitch,1
+799,English,bish,bitch,1
+829,English,btchs,bitches,1
+802,English,bitvhes,bitches,1
+800,English,bitchez,bitches,1
+769,English,bbm,blackberry messenger,4
+807,English,bloomin,blooming,1
+810,English,bota,bought a,1
+1669,English,voy,boy,1
+809,English,boooyyyy,boy,1
+808,English,boi,boy,1
+758,English,b,boy,1
+792,English,bf,boyfriend,3
+815,English,brazillian,brazilian,1
+816,English,bre,breath,1
+794,English,bidge,bridge,1
+818,English,brodcast,broadcast,1
+824,English,bruh,brother,31
+817,English,bro,brother,8
+814,English,brah,brother,2
+826,English,bruuh,brother,1
+825,English,brutha,brother,1
+823,English,bru,brother,1
+821,English,brotha,brother,1
+819,English,brooo,brother,1
+820,English,bros,brothers,1
+822,English,brownskin,brown skin,1
+806,English,blk,bulk,1
+831,English,bullsh,bullshit,1
+832,English,bumpin,bumping,1
+828,English,bt,but,2
+830,English,buht,but,1
+778,English,be,but,1
+833,English,butthurt,butt hurt,1
+835,English,byee,bye,1
+804,English,bje,bye,1
+838,English,callin,calling,1
+839,English,camps,campus,1
+842,English,cant,can't,12
+859,English,cnt,can't,2
+837,English,ca'nt,can't,1
+841,English,cannnot,can't,1
+840,English,cancelled,canceled,1
+1199,English,kanibal,canibal,1
+843,English,catalogue,catalog,1
+846,English,causin,causing,1
+847,English,centre,center,1
+848,English,centres,centers,1
+849,English,chewin,chewing,1
+850,English,chics,chicks,1
+851,English,childrens,children,2
+853,English,chillin,chilling,4
+854,English,chilln,chilling,1
+852,English,chillen,chilling,1
+855,English,choco,chocolate,2
+877,English,craist,christ,1
+857,English,closeeee,close,1
+860,English,colaboration,collaborations,1
+861,English,collcted,collected,1
+862,English,colour,color,4
+884,English,cum,come,2
+858,English,cmon,come on,1
+885,English,cums,comes,1
+864,English,comin,coming,4
+863,English,comeing,coming,1
+865,English,complaing,complaining,1
+866,English,congrats,congratulations,12
+867,English,congratz,congratulations,1
+869,English,convo,conversation,3
+868,English,conversate,converse,1
+870,English,coolin,cooling,1
+883,English,culd,could,1
+1211,English,kudve,could have,1
+872,English,could've,could have,1
+873,English,couldnt,couldn't,3
+874,English,counselling,counseling,1
+879,English,crk,crack,1
+876,English,craic,crack,1
+878,English,creekview,creek view,1
+880,English,cryin,crying,1
+895,English,cying,crying,1
+881,English,cuddlez,cuddles,1
+887,English,cusine,cuisine,1
+889,English,cussin,cussing,1
+890,English,custa,custand,1
+891,English,cutee,cute,1
+892,English,cuteeee,cute,1
+900,English,dam,damn,2
+912,English,deemm,damn,1
+906,English,dayum,damn,1
+901,English,darlin,darling,1
+907,English,dayy,day,1
+1003,English,fay,days,1
+910,English,dealin,dealing,1
+911,English,decor,decoration,2
+916,English,defo,definitely,1
+915,English,definitley,definitely,1
+914,English,deffo,definitely,1
+931,English,dispicable,despicable,1
+919,English,devs,developer,1
+934,English,dixk,dick,1
+908,English,dd,did,2
+924,English,didnt,didn't,19
+923,English,didn,didn't,1
+909,English,ddnt,didn't,1
+926,English,diffffff,different,1
+927,English,diggg,digging,1
+928,English,dimsum,dim sum,1
+936,English,dm,direct message,10
+937,English,dms,direct messages,5
+930,English,discus,discuss,1
+932,English,diss,disrespect,1
+935,English,diy,do it yourself,1
+942,English,doesnt,doesn't,7
+949,English,dosent,doesn't,2
+938,English,dnt,doesn't,1
+940,English,doesng,doesn't,1
+941,English,doesnot,doesn't,1
+943,English,dogg,dog,3
+944,English,doin,doing,8
+945,English,dollarr,dollar,1
+946,English,dont,don't,92
+939,English,dnt,don't,7
+959,English,dun,don't,3
+947,English,donut,doughnut,1
+960,English,dwm,down,1
+950,English,downgrding,downgrading,1
+961,English,dwnld,download,1
+1200,English,kdrama,drama,1
+951,English,dreamin,dreaming,1
+952,English,dressin,dressing,10
+953,English,drinkin,drinking,1
+954,English,drivin,driving,1
+955,English,droppin,dropping,2
+956,English,drugz,drugs,2
+948,English,dood,dude,1
+957,English,dum,dumb,1
+958,English,dumbass,dumb ass,2
+925,English,dieing,dying,2
+962,English,dyn,dying,1
+964,English,eachother,each other,1
+965,English,eatin,eating,1
+970,English,emosh,emotional,1
+969,English,emo,emotions,1
+1331,English,nuff,enough,1
+975,English,eugh,enough,1
+973,English,enuhh,enough,1
+974,English,esp,especially,2
+976,English,every,ever,1
+977,English,everynight,every night,1
+981,English,evry1s,everyone's,1
+978,English,everyones,everyone's,1
+979,English,everythang,everything,1
+980,English,everythings,everything's,1
+983,English,faceeee,face,1
+1005,English,fb,facebook,2
+985,English,fadin,fading,1
+988,English,fallin,falling,2
+989,English,famly,family,1
+990,English,fanclub,fan club,1
+991,English,fangirl,fan girl,2
+992,English,fanmeet,fan meet,1
+993,English,fansites,fan sites,1
+994,English,fatass,fat ass,1
+995,English,fav,favor,2
+999,English,favour,favor,1
+996,English,fav,favorite,16
+1001,English,favourite,favorite,13
+1000,English,favour,favorite,1
+998,English,favo,favorite,1
+1002,English,favs,favorites,4
+997,English,fav,favorites,1
+1038,English,ft,featuring,1
+1011,English,feelin,feeling,9
+1010,English,feeli,feeling,1
+1009,English,feela,feels,1
+1012,English,feets,feet,1
+1014,English,fightin,fighting,1
+1015,English,filmz,film,1
+1025,English,fnk,find,1
+1019,English,fisrt,first,1
+1013,English,fett,fit,1
+1022,English,flavour,flavor,1
+1023,English,flexin,flexing,1
+1024,English,flippin,flipping,1
+1028,English,folllow,follow,1
+1029,English,followback,follow back,5
+1027,English,follback,follow back,2
+1026,English,folbackk,follow back,1
+1031,English,foolin,fooling,1
+705,English,4,for,8
+1032,English,forreal,for real,2
+1004,English,fayo,for you,1
+1060,English,fw,forward,1
+1034,English,freakin,freaking,4
+1037,English,frnd,friend,1
+1035,English,freinds,friends,1
+1036,English,friggin,frigging,1
+1033,English,fr,from,1
+1062,English,fxck,fuck,3
+1052,English,fuk,fuck,3
+1006,English,fck,fuck,2
+1059,English,fux,fuck,2
+986,English,fak,fuck,2
+1020,English,fk,fuck,1
+1008,English,feckkk,fuck,1
+1063,English,fyck,fuck,1
+1057,English,fuq,fuck,1
+1053,English,fukk,fuck,1
+1051,English,fuhh,fuck,1
+1050,English,fuckz,fuck,1
+1045,English,fucka,fuck,1
+1042,English,fucc,fuck,1
+1041,English,fuack,fuck,1
+1040,English,fu k,fuck,1
+1039,English,fu,fuck,1
+984,English,fack,fuck,1
+982,English,f,fuck,1
+966,English,ef,fuck,1
+1061,English,fwit,fuck with,1
+1046,English,fuckas,fuckers,1
+1048,English,fuckin,fucking,13
+1049,English,fuckn,fucking,2
+1021,English,fkn,fucking,1
+1007,English,fckn,fucking,1
+987,English,fakin,fucking,1
+1044,English,fucjing,fucking,1
+1043,English,fuccin,fucking,1
+967,English,effing,fucking,1
+1047,English,fuckbag,fucking bag,1
+1054,English,fuks,fucks,1
+1055,English,fulfil,fulfill,1
+1056,English,funnyshit,funny shit,1
+1058,English,futur,future,1
+1071,English,gentille,gentle,1
+1072,English,gents,gentlemen,1
+1073,English,getcha,get you,1
+1074,English,gettin,getting,11
+1105,English,gurl,girl,3
+1064,English,g,girl,1
+1075,English,gf,girlfriend,1
+1079,English,giva,give a,1
+1080,English,giveaway,give away,1
+1078,English,gim,give me,1
+1081,English,givin,giving,1
+1077,English,ghad,glad,1
+1068,English,gdo,god,1
+1085,English,godbless,god bless,1
+1086,English,goddamit,god damn it,1
+1087,English,goin,going,16
+1090,English,gonna,going to,29
+1018,English,finna,going to,11
+1017,English,finah,going to,1
+1016,English,fina,going to,1
+1088,English,gon,gonna,18
+1089,English,gona,gonna,4
+1104,English,gunna,gonna,1
+1103,English,guna,gonna,1
+1091,English,gonnae,gonna,1
+1084,English,gne,gonna,1
+1102,English,gud,good,3
+1097,English,goood,good,1
+1093,English,goodd,good,1
+1092,English,good'o,good,1
+1067,English,gd,good,1
+1094,English,goodevening,good evening,1
+1095,English,goodluck,good luck,1
+1096,English,goodmorning,good morning,2
+1083,English,gmorning,good morning,1
+1082,English,gm,good morning,1
+1070,English,gemorning,good morning,1
+1098,English,gorgeousss,gorgeous,1
+1099,English,gospe,gospel,1
+1101,English,govt,government,1
+1100,English,gov,government,1
+1076,English,gguide,guide,1
+1066,English,gal,guy,1
+1106,English,guydirectioners,guy directioners,1
+1108,English,hackd,hacked,1
+1111,English,happenin,happening,1
+1110,English,hapi,happy,2
+1112,English,happpy,happy,1
+1113,English,happylgovo,happy,1
+1114,English,happyy,happy,1
+1155,English,hype,happy,1
+1115,English,hardeeeer,harder,1
+1116,English,harrystyles,harry styles,3
+1146,English,hs,has,1
+1117,English,haterz,haters,1
+1118,English,hatin,hating,2
+1153,English,hve,have,5
+1119,English,hav,have,2
+1664,English,ve,have,1
+1152,English,hv,have,1
+1122,English,havr,have,1
+1109,English,hafto,have to,1
+1120,English,havent,haven't,4
+1121,English,havnt,haven't,1
+1130,English,hes,he's,5
+1125,English,headass,head ass,1
+1124,English,head ache,headache,1
+1126,English,headd,headed,1
+1127,English,headin,heading,1
+1128,English,hella,hell of a lot of,6
+1129,English,heree,here,1
+1132,English,highschool,high school,1
+1136,English,hiz,his,1
+1134,English,hitt,hit,1
+1133,English,hitlist,hit list,1
+1135,English,hittin,hitting,1
+1139,English,hoein,hoeing,1
+1141,English,holdin,holding,3
+1142,English,homee,home,1
+1154,English,hw,homework,4
+1143,English,homo,homosexual,1
+1137,English,hk,hong kong,1
+1107,English,h00y,hoot,1
+1144,English,hott,hot,1
+1145,English,hrs,hours,1
+1123,English,hbu,how about you,1
+1148,English,huggin,hugging,1
+1149,English,humen,human,1
+1150,English,humour,humor,2
+1151,English,hurtin,hurting,1
+1168,English,im,i,1
+1157,English,icant,i can't,1
+1180,English,iont,i don't,1
+1159,English,ifucking,i fucking,1
+1162,English,ihavnt,i haven't,1
+1164,English,ik,i know,4
+1165,English,ikno,i know,1
+1158,English,id,i'd,2
+1167,English,ill,i'll,9
+1166,English,il,i'll,2
+1169,English,im,i'm,181
+1170,English,ima,i'm going to,25
+1171,English,imma,i'm going to,18
+1185,English,ive,i've,16
+1156,English,i,in,2
+1189,English,jn,in,1
+1297,English,n,in,1
+972,English,en,in,1
+1172,English,incase,in case,1
+1173,English,infact,in fact,2
+1174,English,infront,in front,1
+1175,English,inlove,in love,1
+1177,English,inspite,in spite,1
+1179,English,intip,in tip,1
+1176,English,insomina,insomnia,1
+1160,English,ig,instagram,6
+1178,English,insta,instagram,1
+963,English,e,is,1
+1182,English,isit,is it,1
+1183,English,isnt,isn't,6
+1163,English,ii,it,1
+1184,English,its,it's,7
+1186,English,jackin,jacking,1
+1187,English,jazzys,jazzy's,1
+1779,English,yisus,jesus,1
+1069,English,geez,jesus,1
+1190,English,jokin,joking,1
+1193,English,judgin,judging,1
+1192,English,judgement,judgment,1
+1194,English,jukeboxx,jukebox,1
+1191,English,jst,just,5
+1195,English,jus,just,4
+1196,English,juss,just,3
+1198,English,juz,just,1
+1188,English,jk,just kidding,4
+1197,English,justunfollow,just unfollow,4
+1201,English,keepin,keeping,1
+1202,English,kidd,kid,1
+1204,English,kiddn,kidding,1
+1203,English,kiddie,kidding,1
+1499,English,slayy,kill,1
+1212,English,kys,kill youself,2
+1205,English,kin,kind of,1
+1206,English,kinna,kinda,1
+1207,English,kissn,kissing,1
+1208,English,kno,know,11
+1210,English,knw,know,6
+1209,English,knooow,know,1
+1333,English,nuh,know,1
+1322,English,no,know,1
+1214,English,labour,labor,4
+1240,English,los,las,1
+1216,English,lastnight,last night,2
+1213,English,l,laughing,1
+1217,English,laughin,laughing,1
+1218,English,laughinf,laughing,1
+1219,English,layiii,layi,1
+1220,English,layin,laying,3
+1221,English,learnt,learned,4
+1222,English,leavin,leaving,2
+1224,English,legt,left,1
+1223,English,lefft,left,1
+1225,English,lettin,letting,1
+1226,English,lic,license,2
+1228,English,lifeee,life,1
+1229,English,lightskin,light skin,1
+1230,English,lightsticks,light sticks,1
+1231,English,lik,like,3
+1247,English,lyk,like,2
+1248,English,lyke,like,1
+1227,English,liek,like,1
+1232,English,lil,little,35
+1233,English,livin,living,2
+1234,English,locc,lock,1
+1215,English,lang,long,1
+1236,English,longway,long way,4
+1237,English,lookin,looking,10
+1241,English,lottle,lot,1
+1238,English,loooot,lot,1
+1246,English,luv,love,4
+1244,English,luff,love,1
+1239,English,looove,love,1
+1235,English,loce,love,1
+1242,English,loveyou,love you,1
+1243,English,lovley,lovely,1
+1245,English,luk,luck,1
+1259,English,mdm,madam,1
+1281,English,mlb,major league baseball,3
+1253,English,makin,making,2
+1283,English,momma,mama,3
+1284,English,mommas,mamas,1
+1254,English,mane,man,1
+1255,English,mantabs,man tabs,1
+1262,English,mep,map,2
+1256,English,marketwatch,market watch,2
+1257,English,marri,marry,1
+1258,English,marvellous,marvelous,1
+1293,English,mybe,maybe,1
+1260,English,mee,me,3
+1272,English,mi,me,2
+1261,English,meetin,meeting,1
+1263,English,merch,merchandise,1
+1264,English,mesage,message,1
+1266,English,messin,messing,1
+1267,English,meth,methamphetamine,3
+1274,English,microsofts,microsoft's,1
+1275,English,midd,middle,1
+1276,English,min,minute,1
+1278,English,mins,minutes,4
+1277,English,min,minutes,1
+1279,English,mis,miss,1
+1280,English,missyou,miss you,1
+1292,English,mum,mom,1
+1285,English,moodbooster,mood booster,1
+1286,English,moodboster,mood boster,1
+1287,English,moodbreaker,mood breaker,1
+1288,English,mornin,morning,1
+1291,English,muh,mother,1
+1268,English,mf,mother fucker,3
+1270,English,mfs,mother fuckers,3
+1269,English,mf,mother fuckers,1
+1271,English,mfss,mother fuckers,1
+1290,English,movin,moving,1
+1289,English,moslem,muslim,1
+1251,English,ma,my,4
+1252,English,mah,my,2
+1273,English,mi,my,2
+1781,English,ym,my,1
+1250,English,m,my,1
+1282,English,mnl,my new love,1
+1265,English,meself,myself,1
+1294,English,myselff,myself,1
+1310,English,nid,need,1
+1304,English,needto,need to,1
+1305,English,neighbour,neighbor,4
+1306,English,neighbours,neighbors,1
+1308,English,neva,never,2
+1336,English,nvm,never mind,3
+1340,English,nyt,new york times,2
+1339,English,nxt,next,3
+1309,English,nextday,next day,1
+1312,English,nigga,nigger,57
+1314,English,niggah,nigger,1
+1313,English,niggaas,nigger,1
+1311,English,niga,nigger,1
+1316,English,niggra,nigger,1
+1320,English,niqqa,nigger,1
+1315,English,niggas,niggers,52
+1317,English,nighas,niggers,4
+1319,English,nigjt,night,1
+1321,English,nite,night,1
+1318,English,nightbot,night bot,1
+1299,English,nah,no,3
+1298,English,na,no,3
+1326,English,noo,no,1
+1325,English,nomore,no more,3
+1324,English,no1s,no one's,1
+1337,English,nw,no worries,1
+1329,English,nt,not,2
+1301,English,naw,not,1
+1323,English,no,not,1
+1327,English,nothin,nothing,5
+1335,English,nun,nothing,1
+1332,English,nuffin,nothing,1
+1330,English,ntn,nothing,1
+1302,English,naw,now,7
+1300,English,nah,now,2
+1338,English,nw,now,1
+1334,English,nuh,now,1
+1328,English,nows,now is,1
+1344,English,obvi,obviously,1
+1346,English,ofcourse,of course,1
+1345,English,ofc,of course,1
+1341,English,o,off,1
+1348,English,ohhh,oh,1
+1347,English,ohgosh,oh gosh,1
+1354,English,oookay,okay,1
+1349,English,ol,old,2
+1350,English,oll,old,1
+1342,English,o,on,1
+1351,English,ona,on a,1
+1355,English,oooooneee,one,1
+1352,English,onew,one,1
+1353,English,ony,only,1
+1356,English,openfollow,open follow,2
+1357,English,orrr,or,1
+1358,English,otha,other,1
+750,English,auchhh,ouch,1
+1360,English,outttttt,out,1
+1359,English,outta,out of,1
+1362,English,paty,party,1
+1363,English,payin,paying,1
+1361,English,p,peace,2
+1365,English,peewee,pee wee,3
+1392,English,ppl,people,25
+1393,English,pple,people,1
+1391,English,ppe,people,1
+1369,English,pepul,people,1
+1368,English,pepl,people,1
+1366,English,peole,people,1
+1394,English,ppls,people's,1
+1367,English,peoples,people's,1
+1370,English,perf,perfect,3
+1372,English,performa,performance,1
+1371,English,perfoming,performing,1
+1030,English,fone,phone,3
+1373,English,photobomb,photo bomb,2
+1374,English,photobooth,photo booth,1
+1412,English,putos,photos,1
+1379,English,pik,pick,2
+1376,English,pickin,picking,1
+1375,English,pic,picture,11
+1382,English,plc,picture,1
+1378,English,pict,picture,1
+1377,English,pics,pictures,3
+1380,English,pitc,pitcher,1
+1381,English,playin,playing,4
+1386,English,pls,please,43
+1387,English,plz,please,7
+1385,English,pleaseeeee,please,1
+1384,English,pleaseee,please,1
+1383,English,pleasee,please,1
+1388,English,poooollll,pool,1
+1389,English,poppin,popping,2
+1364,English,pdx,portland,1
+1390,English,posible,possible,1
+1395,English,pratice,practice,1
+1396,English,prayin,praying,1
+1397,English,pre calc,precalc,1
+1399,English,preggo,pregnant,1
+1402,English,primiere,premiere,1
+1398,English,pre order,preorder,2
+1401,English,prez,president,1
+1400,English,prev,previous,1
+1408,English,prolly,probably,2
+1403,English,prob,probably,1
+1405,English,probs,probably,1
+1404,English,problema,problem,1
+1406,English,probs,problems,1
+1407,English,programme,program,2
+1409,English,promotio,promotion,1
+1411,English,pullin,pulling,1
+1410,English,psh,push,1
+1415,English,qtr,quarter,1
+1414,English,qld,queensland,1
+1413,English,q,question,1
+1416,English,quil,quill,1
+1444,English,rp,real people,1
+1420,English,realise,realize,2
+1421,English,realised,realized,1
+1439,English,rlly,really,1
+1422,English,redsox,red sox,1
+1424,English,reherseal,rehearsal,1
+1423,English,rehersal,rehearsal,1
+1425,English,relatd,related,1
+1426,English,rememberin,remembering,1
+1440,English,rmx,remix,1
+1427,English,reporte,reporter,1
+1428,English,representin,representing,1
+1429,English,repubs,republicans,1
+1418,English,r,rest,2
+1435,English,rip,rest in peace,1
+1445,English,rt,retweet,29
+1446,English,rtwt,retweet,1
+1430,English,reveale,revealed,1
+1431,English,ridin,riding,2
+1436,English,rite,right,2
+1452,English,ryte,right,1
+1451,English,ryt,right,1
+1434,English,rightt,right,1
+1432,English,righ t,right,1
+1441,English,rn,right now,6
+1433,English,rightnow,right now,1
+1438,English,rizky,risky,1
+1437,English,riverwalk,river walk,1
+1419,English,rd,road,1
+1442,English,rockin,rocking,3
+1443,English,roflmao,rolling on floor laughing my ass off,1
+1447,English,rumour,rumor,1
+1448,English,rumours,rumors,2
+1450,English,runnn,run,1
+1449,English,runnin,running,3
+1453,English,sadest,saddest,1
+1454,English,salud,salute,1
+1455,English,sameee,same,1
+1457,English,satnite,saturday night,1
+1458,English,savin,saving,2
+1459,English,sayin,saying,5
+1456,English,satin,saying,1
+1461,English,scratchin,scratching,1
+1462,English,screamin,screaming,1
+1463,English,screen shot,screenshot,1
+1464,English,sec,second,1
+1466,English,sekret,secret,1
+836,English,c,see,4
+882,English,cuh,see you,1
+1465,English,seein,seeing,1
+1493,English,sim,seems,1
+1467,English,sence,sense,1
+1469,English,seperate,separate,1
+1468,English,sep,september,1
+1529,English,srsly,seriously,4
+1470,English,sesh,session,1
+1471,English,shakin,shaking,1
+1472,English,shap,shape,1
+1481,English,shmit,shit,1
+1474,English,shid,shit,1
+1475,English,shitb,shit,1
+1473,English,shat,shit,1
+1478,English,shizz,shit,1
+1476,English,shitihsthiaht,shit,1
+1487,English,shuit,shit,1
+1490,English,shxt,shit,1
+1491,English,shyt,shit,1
+1181,English,ish,shit,1
+1147,English,hsit,shit,1
+1477,English,shittin,shitting,1
+1479,English,shld,should,2
+1488,English,shuld,should,1
+1484,English,shoulda,should have,1
+1483,English,should've,should have,1
+1480,English,shldnt,shouldn't,1
+1485,English,shoutout,shout out,3
+1486,English,showin,showing,1
+1489,English,shutup,shut up,2
+1492,English,signin,signing,1
+1494,English,similiar,similar,1
+1495,English,sis,sister,1
+1497,English,sittin,sitting,2
+1496,English,sitten,sitting,1
+1460,English,schleep,sleep,1
+1503,English,slp,sleep,1
+1502,English,slippin,sleeping,1
+1500,English,slindin,slinding,1
+1501,English,slipin,sliping,1
+1506,English,smyle,smile,1
+1504,English,smokin,smoking,2
+1515,English,soo,so,7
+1516,English,soooo,so,4
+1482,English,shoo,so,1
+1517,English,soooooo,so,1
+1343,English,o,so,1
+1507,English,soff,soft,3
+1544,English,sum,some,1
+1545,English,sum1,someone,2
+1549,English,sumone,someone,1
+1508,English,some1,someone,1
+1510,English,soml,someone,1
+1505,English,smth,something,3
+1548,English,sumn,something,2
+1547,English,summn,something,1
+1509,English,somethin,something,1
+1511,English,somthin,something,1
+1512,English,somtime,sometimes,1
+1514,English,sonn,son,1
+1513,English,songz,songs,1
+1528,English,srry,sorry,1
+1518,English,sorrrrrrrrrrrrry,sorry,1
+1519,English,sorrry,sorry,1
+1520,English,soundcloud,sound cloud,1
+1521,English,soundin,sounding,1
+1522,English,southamerica,south america,1
+1523,English,sped,speed,1
+1527,English,spyder,spider,1
+1524,English,spirite,spirit,2
+1525,English,spittin,spitting,1
+1526,English,spongbob,spongebob,1
+1534,English,stge,stage,1
+1530,English,stainin,staining,1
+1531,English,standin,standing,1
+1532,English,starin,staring,1
+1533,English,starvin,starving,1
+1535,English,stillll,still,1
+1537,English,stoopp,stop,1
+1538,English,stp,stop,1
+1539,English,str8,straight,1
+1540,English,stressin,stressing,1
+1541,English,studyin,studying,1
+1536,English,stoopid,stupid,1
+1542,English,suckin,sucking,1
+1543,English,sugah,sugar,1
+1546,English,summertime,summer time,1
+1498,English,skepta,sunglasses,1
+1552,English,swayin,swaying,1
+1551,English,sware,swear,1
+1553,English,swearin,swearing,1
+1554,English,sweatin,sweating,1
+1555,English,sweetface,sweet face,1
+1556,English,swimmin,swimming,2
+1557,English,switc,switch,1
+1558,English,sympathise,sympathize,1
+1561,English,takin,taking,2
+1562,English,talkin,talking,6
+1563,English,talkn,talking,3
+1619,English,tlkn,talking,1
+1564,English,talor,taylor,1
+779,English,bea,tea,1
+1566,English,teering,tearing,1
+1569,English,telly,television,1
+1567,English,tele,television,1
+1568,English,tellin,telling,3
+1642,English,txt,text,5
+1643,English,txted,texted,2
+1644,English,txtin,texting,1
+1570,English,textin,texting,1
+1608,English,thx,thank,1
+1645,English,ty,thank you,4
+1579,English,thankyou,thank you,1
+1578,English,thanku,thank you,1
+1576,English,thankiu,thank you,1
+1575,English,thankin,thanking,1
+1609,English,thx,thanks,6
+1611,English,thz,thanks,1
+1574,English,thankies,thanks,1
+1580,English,thanx,thanks,1
+1595,English,thnx,thanks,1
+1577,English,thanksfor,thanks for,1
+903,English,dat,that,16
+1604,English,tht,that,6
+1802,English,za,that,1
+1583,English,thattt,that,1
+1584,English,thay,that,1
+897,English,da,that,1
+1582,English,thats,that's,33
+905,English,dats,that's,5
+1605,English,thts,that's,2
+1581,English,thas,that's,1
+902,English,dass,that's,1
+896,English,d,the,22
+898,English,da,the,13
+1572,English,tha,the,12
+1571,English,tf,the fuck,9
+899,English,dafuq,the fuck,1
+904,English,datpiff,the piff,1
+1585,English,theatre,theater,2
+922,English,dia,their,1
+920,English,dey,their,1
+968,English,em,them,8
+917,English,dem,them,3
+1586,English,theirselves,themselves,1
+1607,English,thwre,there,1
+1599,English,thr,there,1
+1588,English,theyr,there,1
+1587,English,theres,there's,6
+1610,English,thys,there's,1
+918,English,dese,these,1
+913,English,deez,these,1
+921,English,dey,they,3
+1131,English,hey,they,1
+1307,English,nem,they,1
+1589,English,theyre,they're,11
+1603,English,thryyre,they're,1
+1590,English,theyve,they've,1
+1573,English,thang,thing,2
+1615,English,ting,thing,1
+1594,English,thng,thing,1
+1592,English,thingys,thing is,1
+1593,English,thinkin,thinking,5
+929,English,dis,this,9
+1591,English,thiiisss,this,1
+933,English,diss,this,1
+1596,English,tho,though,17
+1598,English,thou,though,1
+1597,English,thoee,though,1
+1602,English,thru,through,3
+1600,English,throught,through,2
+1601,English,throwg,throw,1
+1606,English,thu,thursday,1
+1616,English,tix,ticket,2
+1613,English,tickt,ticket,1
+1617,English,tix,tickets,2
+1614,English,til,till,1
+1618,English,tl,timeline,2
+1612,English,tiard,tired,1
+700,English,2,to,14
+1559,English,t,to,1
+1560,English,ta,to,1
+1636,English,tu,to you,1
+1623,English,todays,today,1
+702,English,2day,today,1
+1624,English,todays,today's,1
+1626,English,tommorow,tomorrow,2
+1620,English,tmr,tomorrow,2
+1621,English,tmrw,tomorrow,2
+1627,English,tomorro,tomorrow,1
+1625,English,tomar,tomorrow,1
+1622,English,tmw,tomorrow,1
+704,English,2mrw,tomorrow,1
+703,English,2moz,tomorrow,1
+1628,English,tonite,tonight,1
+1629,English,tooo,too,1
+1630,English,tooooooo,too,1
+1631,English,trippin,tripping,2
+1632,English,tryin,trying,2
+1633,English,tryn,trying,2
+1565,English,taryn,trying,1
+1634,English,tryna,trying to,18
+1635,English,trynna,trying to,1
+1637,English,tue,tuesday,1
+1638,English,tunee,tune,1
+1640,English,turnup,turn up,1
+1639,English,turnt,turned,2
+1641,English,tweetin,tweeting,3
+1650,English,ultraviolence,ultra violence,1
+1651,English,unis,universities,1
+1652,English,unkown,unknown,1
+1653,English,upp,up,1
+1654,English,upto,up to,1
+1659,English,usa,use,1
+1662,English,vag,vagina,1
+1661,English,v,very,2
+1665,English,vid,video,6
+1666,English,vids,videos,2
+1667,English,ville,village,1
+1668,English,viru,virus,1
+1671,English,w8,wait,1
+1677,English,waitin,waiting,2
+1678,English,walkoff,walk off,1
+1679,English,wallin,walling,1
+1680,English,wann,wanna,1
+1734,English,wnt,want,1
+1681,English,wanna,want to,12
+1682,English,wantin,wanting,1
+1735,English,wnts,wants,1
+1684,English,warmin,warming,1
+1739,English,wos,was,1
+1663,English,vas,was,1
+1705,English,wes,was,1
+1685,English,wasnt,wasn't,6
+1689,English,watchin,watching,5
+1673,English,wada,water,1
+1672,English,waaay,way,1
+1693,English,wayy,way,1
+1704,English,were,wear,1
+1697,English,wearr,wear,1
+1696,English,wearin,wearing,1
+1698,English,webside,website,1
+1731,English,wk,week,1
+1732,English,wkeend,weekend,1
+1699,English,weeknd,weekend,1
+1700,English,weiiiiird,weird,1
+1701,English,wellllll,well,1
+1748,English,wrre,were,1
+1687,English,wat,what,9
+1723,English,wht,what,4
+1753,English,wut,what,4
+1724,English,whut,what,3
+1714,English,whet,what,1
+1712,English,whattt,what,1
+1676,English,wahat,what,1
+1706,English,wh,what,1
+1708,English,whataburger,what a burger,1
+1710,English,whatdoiwear,what do i wear,1
+1713,English,whatz,what is,1
+1709,English,whatchu,what you,3
+1688,English,watcha,what you,1
+1711,English,whats,what's,3
+1691,English,wats,what's,2
+1692,English,watz,what's,1
+1752,English,wuddup,what's up,2
+1550,English,sup,what's up,1
+1674,English,waddup,what's up,1
+1686,English,wassup,what's up,1
+1707,English,whap,what's up,1
+1690,English,wateva,whatever,1
+1702,English,wen,when,3
+1719,English,whn,when,2
+1722,English,whr,where,1
+1703,English,wer,where,1
+1695,English,wea,where are,1
+1715,English,whippin,whipping,2
+1716,English,whisky,whiskey,1
+1717,English,whiteboy,white boy,1
+1721,English,whos,who's,6
+1720,English,whoopin,whooping,1
+1138,English,hoe,whore,1
+1140,English,hoes,whores,1
+1755,English,y,why,4
+1801,English,yy,why,1
+1725,English,whyy,why,1
+1675,English,wae,why,1
+1728,English,wil,will,1
+1729,English,wit,with,17
+1670,English,w,with,11
+1726,English,wid,with,5
+1750,English,wth,with,2
+1727,English,wif,with,1
+1730,English,witchu,with you,2
+1718,English,whithout,without,1
+1737,English,wont,won't,2
+1694,English,wdlands,woodlands,1
+1743,English,wrd,word,1
+1745,English,wrk,work,2
+1738,English,workk,work,1
+1746,English,wrked,worked,2
+1749,English,wrry,worry,1
+1742,English,woyld,would,1
+1733,English,wld,would,1
+1751,English,wud,would,1
+1740,English,woulda,would have,6
+1741,English,wouldnt,wouldn't,4
+1736,English,woah,wow,1
+1683,English,waow,wow,1
+1744,English,writin,writing,2
+1747,English,wrng,wrong,1
+1754,English,xf,x factor,1
+1760,English,yall,y'all,23
+1764,English,yea,yeah,7
+1777,English,yh,yeah,1
+1767,English,yeh,yeah,1
+1768,English,yellin,yelling,1
+1769,English,yellowcard,yellow card,1
+1774,English,yesss,yes,2
+1775,English,yessss,yes,1
+1773,English,yesshhh,yes,1
+1772,English,yess,yes,1
+1771,English,yeshh,yes,1
+1766,English,yeaa,yes,1
+1763,English,yass,yes,1
+1762,English,yas,yes,1
+1776,English,yessssiiiirrrrr,yes sir,1
+1795,English,ytd,yesterday,1
+1646,English,u,you,328
+1757,English,ya,you,15
+1782,English,yo,you,11
+1796,English,yu,you,7
+1790,English,youu,you,4
+1797,English,yuh,you,3
+1791,English,youuu,you,2
+1786,English,youo,you,1
+1780,English,yiu,you,1
+1778,English,yhu,you,1
+1798,English,yui,you,1
+1655,English,ur,you,1
+1765,English,yea,you,1
+1759,English,yah,you,1
+856,English,chu,you,1
+756,English,ayu,you,1
+1660,English,ut,you too,1
+1649,English,ull,you will,1
+1785,English,youll,you'll,2
+1656,English,ur,you're,12
+1788,English,youre,you're,5
+1794,English,yr,you're,2
+1787,English,your,you're,2
+1647,English,u,you're,2
+1770,English,yer,you're,1
+1792,English,youve,you've,1
+1657,English,ur,your,33
+1783,English,yo,your,8
+1648,English,u,your,3
+1784,English,yor,your,1
+1799,English,yur,your,1
+1758,English,ya,your,1
+1756,English,y,your,1
+1793,English,yowapedal,your pedal,1
+1761,English,yaoipedal,your pedal,1
+1658,English,urself,yourself,4
+1800,English,yurself,yourself,1
+1789,English,youtbe,youtube,1
+1804,Italian,10cent,10 centesimi,1
+1807,Italian,20mila,20 mila,1
+1806,Italian,20,20:00,1
+1809,Italian,30mila,30 mila,1
+1813,Italian,abbian,abbiamo,1
+1815,Italian,abiamo,abbiamo,1
+1814,Italian,abbian,abbiano,1
+1812,Italian,a,al,1
+1816,Italian,al,all',1
+1817,Italian,ammujna,ammuina,1
+1818,Italian,anchio,anche io,1
+1820,Italian,antipolitca,antipolitica,1
+1821,Italian,anzikè,anzichè,1
+1822,Italian,auguriiiiiiiii,auguri,1
+1824,Italian,barça,barcellona,1
+1825,Italian,bel,bell',1
+1828,Italian,bn,bene,1
+1826,Italian,beppeee,beppe,3
+1823,Italian,b.,berlusconi,1
+1827,Italian,bio,biografia,1
+1829,Italian,br,braccialetti rossi,1
+1830,Italian,buenooo,bueno,1
+1857,Italian,c’,c',1
+1856,Italian,cé,c' è,1
+1832,Italian,cagato,cacato,1
+1831,Italian,caffé,caffè,1
+1833,Italian,cansone,canzone,1
+1834,Italian,capopolo,capopopolo,1
+1835,Italian,cataniaaa,catania,1
+1837,Italian,cav.,cavaliere,1
+1836,Italian,cav,cavaliere,1
+1908,Italian,kazzata,cazzata,1
+1838,Italian,caxxo,cazzo,1
+1839,Italian,cazzooo,cazzo,1
+1892,Italian,ghe,ce,1
+1840,Italian,cent,centesimi,1
+1909,Italian,ke,che,5
+1841,Italian,chiamooo,chiamo,1
+1842,Italian,cioé,cioè,1
+1910,Italian,kol,col,1
+1844,Italian,cmq,comunque,4
+1846,Italian,cn,con,2
+1854,Italian,cu,con,1
+1911,Italian,kon,con,1
+1847,Italian,concord.,concordare,1
+1848,Italian,contro-rivoluzione,controrivoluzione,1
+1849,Italian,convice,convince,1
+1851,Italian,corsera,corriere della sera,2
+1852,Italian,cosi,così,3
+1853,Italian,cosí,così,1
+1845,Italian,cmq,cpmunque,1
+1850,Italian,core,cuore,1
+1855,Italian,cuor,cuore,1
+1859,Italian,daje,dai,1
+1858,Italian,daii,dai,1
+1860,Italian,dara',darà,1
+1872,Italian,du,del,1
+1863,Italian,delnord,del nord,1
+1862,Italian,del,dell,1
+1915,Italian,la,della,1
+1864,Italian,demagògo,demagogo,1
+1865,Italian,demo,democrazia,1
+1873,Italian,dx,destra,2
+1861,Italian,de,di,4
+1868,Italian,difiori,di fiori,1
+1869,Italian,digianni,di gianni,1
+1866,Italian,dic,dicembre,1
+1867,Italian,dic...,dicembre...,1
+1871,Italian,dott.ssa,dottoressa,1
+1870,Italian,do',dò,1
+1877,Italian,elez,elezioni,1
+1879,Italian,es,esempio,1
+1881,Italian,euro,europa,2
+1880,Italian,eu,europa,1
+1889,Italian,fà,fa,1
+1890,Italian,fò,faccio,1
+1882,Italian,far,fare,2
+1883,Italian,fio…,fiorentina,1
+1884,Italian,fla,flavia,1
+1886,Italian,fossen,fossa,1
+1888,Italian,frà,fratello,1
+1887,Italian,frecati,fregati,1
+1891,Italian,gen,gennaio,1
+1895,Italian,giov,giovedì,1
+1843,Italian,ciro,giro,1
+1893,Italian,gia,già,5
+1894,Italian,gia',già,1
+1896,Italian,goooooool,gol,1
+1897,Italian,gorverno,governo,1
+1898,Italian,grazieeeee,grazie,1
+1899,Italian,heey,hey,1
+1906,Italian,itassi,i tassi,1
+1900,Italian,idolo/i,idolo idoli,1
+1878,Italian,er,il,1
+1921,Italian,lu,il,1
+1951,Italian,ombottivo,imbottivo,1
+1902,Italian,info,informazioni,2
+1903,Italian,iniquita',iniquità,1
+1904,Italian,italiatiani,italiani,1
+1905,Italian,italiot…,italioti,1
+1907,Italian,juve,juventus,1
+1912,Italian,kpop,k-pop,1
+1916,Italian,la,le,1
+1920,Italian,loool,lol,1
+1917,Italian,la,los angeles,1
+1922,Italian,lun,lunedì,1
+1923,Italian,lunedi,lunedì,1
+1918,Italian,li,lì,1
+1919,Italian,li',lì,1
+1926,Italian,mavfnc,ma vaffanculo,1
+1924,Italian,maggiorparte,maggior parte,1
+1927,Italian,merdaaaa,merda,1
+1929,Italian,milanal,milan al,1
+1930,Italian,miooo,mio,1
+1928,Italian,miei,mmiei,1
+1932,Italian,mondoooo,mondo,1
+1933,Italian,monfo,mondo,1
+1934,Italian,mò,monica,1
+1931,Italian,mo-rosa-,morosa,1
+1925,Italian,manco,neanche,1
+1937,Italian,nella,nela,1
+1938,Italian,nellla,nella,1
+1939,Italian,ness,nessuno,1
+1940,Italian,niruana,nirvana,1
+1944,Italian,noooooo,no,1
+1942,Italian,nooo,no,1
+1943,Italian,noooo,no,1
+1941,Italian,nn,non,16
+1947,Italian,ns,nostri,1
+1948,Italian,ns,nostro,1
+1945,Italian,notteeee,notte,1
+1946,Italian,nov,novembre,5
+1936,Italian,ne,né,2
+1949,Italian,occhiatta,occhiata,1
+1950,Italian,oddioo,oddio,1
+1901,Italian,il,ol,1
+1952,Italian,ommaigoddi,omg,1
+1954,Italian,onerepublic,one republic,1
+1953,Italian,on.,onorevole,1
+1955,Italian,opposiz,opposizione,2
+1956,Italian,parteeeeeeee,parte,1
+2048,Italian,x,per,6
+1958,Italian,perchè,perché,7
+1957,Italian,perche',perché,2
+2049,Italian,xchè,perché,2
+2050,Italian,xké,perché,1
+1970,Italian,prefetto,perfetto,1
+1959,Italian,permet.,permettono,1
+1961,Italian,pg,perugia,1
+1960,Italian,pero',però,2
+1963,Italian,piicccina,piccina,1
+1962,Italian,piete,piede,1
+1803,Italian,+,più,1
+1967,Italian,piu’,più,1
+1965,Italian,piu,più,1
+1966,Italian,piu',più,1
+1978,Italian,pò,po',1
+1968,Italian,po,po',1
+1969,Italian,politca,politica,1
+1971,Italian,pregooo,prego,1
+1972,Italian,prentento,prendendo,1
+1805,Italian,1mo,primo,1
+1973,Italian,priorita',priorità,1
+1974,Italian,prof.,professor,1
+1975,Italian,pross,prossime,1
+1976,Italian,pubblicita',pubblicità,1
+1977,Italian,puo',può,3
+1982,Italian,quale,qual,1
+1979,Italian,qndo,quando,1
+1980,Italian,qnti,quanti,2
+1913,Italian,kvanto,quanto,1
+1811,Italian,4mila,quattromila,1
+1914,Italian,kvelli,quelli,1
+2014,Italian,sta,questa,2
+2015,Italian,ste,queste,1
+2016,Italian,sti,questi,2
+1981,Italian,qs,questo,1
+2018,Italian,sto,questo,1
+1983,Italian,quierooo,quiero,1
+1984,Italian,raffrettoren,raffreddore,1
+1985,Italian,rai1,rai 1,1
+1986,Italian,rass,rassegna,1
+1987,Italian,rassegnarsi,rassegnar si,1
+1988,Italian,realtá,realtà,1
+1989,Italian,ricari…,ricariche,1
+1990,Italian,rimanè,rimanere,1
+1991,Italian,roma,rome,1
+1992,Italian,salentonotizie,salento notizie,1
+1993,Italian,salveremp,salveremo,1
+1994,Italian,samp,sampdoria,1
+1996,Italian,sapè,sapere,1
+1995,Italian,sapra',saprà,1
+1997,Italian,sará,sarà,1
+1998,Italian,screen,screenshot,1
+1999,Italian,secondovoi,secondo voi,1
+1964,Italian,pippa,sega,1
+2000,Italian,semif...,semifinale,1
+2001,Italian,sensazionie,sensazioni e,1
+2002,Italian,sentirsi,sentire si,1
+2003,Italian,sever...,severa,1
+2004,Italian,si,sia,1
+2052,Italian,ziete,siete,1
+2024,Italian,sx,sinistra,2
+2025,Italian,sx,sinistro,1
+2008,Italian,sogget,soggetto,1
+2009,Italian,sol,solo,1
+2010,Italian,son,sono,1
+2011,Italian,soono,sono,1
+2007,Italian,sn,sono,1
+2012,Italian,sottosegr.,sottosegretari,1
+2013,Italian,spriamo,speriamo,1
+2017,Italian,stnn,stanno,1
+2053,Italian,ztate,state,1
+2019,Italian,stò,sto,1
+2020,Italian,suelacrime,sue lacrime,1
+2021,Italian,suosorriso,suo sorriso,1
+2023,Italian,supermario,super mario,1
+2022,Italian,superera',supererà,1
+2005,Italian,si,sì,10
+2006,Italian,siii,sì,1
+2027,Italian,tener,tenere,1
+2026,Italian,t',ti,1
+2028,Italian,tornera',tornerà,1
+2029,Italian,transloco,trasloco,2
+2030,Italian,trasm,trasmissioni,1
+1810,Italian,3mld,tre miliardi,1
+2032,Italian,tuo/oi,tuo tuoi,1
+2031,Italian,tt,tutte,1
+2033,Italian,tutteeeeee,tutte,1
+2034,Italian,tuttu,tutto,1
+2035,Italian,uccidetevi,uccidervi,1
+2037,Italian,un,un',2
+2038,Italian,unidea,un' idea,1
+1935,Italian,n',una,1
+2036,Italian,ue,unione europea,1
+2039,Italian,unitá,unità,1
+2040,Italian,utlizzo,utilizzo,1
+2042,Italian,vabbene,va bene,1
+2041,Italian,vabbe,vabbè,1
+1808,Italian,21enni,ventunenni,1
+2043,Italian,videoooo,video,1
+1885,Italian,foi,voi,1
+2044,Italian,voltaa,volta,1
+2045,Italian,vuol,vuole,1
+2046,Italian,whazza,whatsapp,1
+2047,Italian,whowantstoliveforever,who wants to live forever,1
+2051,Italian,youtubers,youtuber,1
+1819,Italian,ancora,àncora,1
+1875,Italian,e',è,16
+2055,Italian,é,è,13
+1874,Italian,e,è,2
+1876,Italian,e'quello,è quello,1
+2054,Italian,èstatapremiatauna,è stata premiata una,1
+2073,Spanish,alomejor,a_lo_mejor,1
+2093,Spanish,ati,a_ti,1
+2057,Spanish,abandonaa,abandonada,1
+2065,Spanish,akabo,acabo,1
+2059,Spanish,adioos,adiós,1
+2060,Spanish,aggg,ah,1
+2061,Spanish,ahi,ahí,1
+2069,Spanish,alfin,al_fin,1
+2067,Spanish,alegradp,alegrado,1
+2068,Spanish,alegria,alegría,1
+2070,Spanish,algun,algún,1
+2071,Spanish,alli,allí,2
+2072,Spanish,almeria,almería,1
+2074,Spanish,alvaero,alvaro,1
+2075,Spanish,amig@s,amigos,1
+2078,Spanish,antoniojajaj,antonio_ja,1
+2077,Spanish,anecdota,anécdota,1
+2079,Spanish,aprovar,aprobar,1
+2081,Spanish,aqui,aquí,3
+2066,Spanish,aki,aquí,1
+2080,Spanish,aqi,aquí,1
+2082,Spanish,aquii,aquí,1
+2083,Spanish,arrepieento,arrepiento,1
+2086,Spanish,ascoo,asco,1
+2088,Spanish,asii,así,1
+2091,Spanish,asinque,así_que,1
+2092,Spanish,asiquee,así_que,1
+2089,Spanish,asik,así_que,1
+2090,Spanish,asin,asín,1
+2062,Spanish,aiiiii,ay,1
+2094,Spanish,ayayayayyay,ay,1
+2103,Spanish,bueh,bah,1
+2095,Spanish,baaaajaa,baja,1
+2096,Spanish,bateriaa,batería,1
+2097,Spanish,besitoo,besito,1
+2098,Spanish,biebeer's,bieber,1
+2099,Spanish,biiien,bien,1
+2100,Spanish,bn,bien,1
+2101,Spanish,boooonico,bonico,1
+2105,Spanish,buenn,buen,1
+2107,Spanish,burna,buena,1
+2337,Spanish,nas,buenas,1
+2104,Spanish,buenaaas,buenas,1
+2106,Spanish,buenoo,bueno,2
+2108,Spanish,buuenoo,bueno,1
+2109,Spanish,buuueno,bueno,1
+2102,Spanish,bueenoo,bueno,1
+2111,Spanish,caess,caes,1
+2112,Spanish,cafe,café,2
+2110,Spanish,caasi,casi,1
+2114,Spanish,catastrofica,catastrófica,1
+2115,Spanish,cenitaaaaa,cenita,1
+2117,Spanish,chaparron,chaparrón,1
+2118,Spanish,chillio,chillido,1
+2484,Spanish,tss,chis,1
+2485,Spanish,tssss,chis,1
+2119,Spanish,cieloo,cielo,1
+2120,Spanish,claroo,claro,1
+2121,Spanish,claseee,clase,1
+2122,Spanish,claseeeesss,clases,1
+2135,Spanish,coxinooooo,cochino,1
+2126,Spanish,cola-cao,cola_cao,1
+2127,Spanish,colacaito,colacaíto,1
+2128,Spanish,colegui,colega,1
+2129,Spanish,comiita,comidita,1
+2130,Spanish,compi,compañero,1
+2123,Spanish,cmun,común,1
+2124,Spanish,cn,con,4
+2279,Spanish,kn,con,1
+2125,Spanish,cnoces,conoces,1
+2131,Spanish,contentaa,contenta,1
+2132,Spanish,conver,conversación,1
+2133,Spanish,corazon,corazón,2
+2134,Spanish,cosaas,cosas,1
+2137,Spanish,coñooo,coño,1
+2136,Spanish,coñoo,coño,1
+2138,Spanish,criticais,criticáis,1
+2202,Spanish,fuando,cuando,1
+2140,Spanish,cuestaa,cuesta,1
+2139,Spanish,cuehtion,cuestión,1
+2141,Spanish,culpaa,culpa,1
+2142,Spanish,cumpleee,cumpleaños,1
+2113,Spanish,camara,cámara,1
+2116,Spanish,cesped,césped,1
+2144,Spanish,danes,danés,1
+2146,Spanish,dee,de,2
+2145,Spanish,deacuerdo,de_acuerdo,1
+2147,Spanish,dejeis,dejéis,1
+2164,Spanish,dsd,desde,1
+2149,Spanish,despues,después,5
+2148,Spanish,despuees,después,1
+2166,Spanish,dspues,después,1
+2165,Spanish,dspue,después,1
+2150,Spanish,devolvia,devolvía,1
+2152,Spanish,dibujiito,dibujito,1
+2153,Spanish,dicees,dices,1
+2154,Spanish,dichoo,dicho,1
+2161,Spanish,dixo,dicho,1
+2157,Spanish,diiios,dios,1
+2156,Spanish,diiiiiiioooooooo,dios,1
+2159,Spanish,dioa,dios,1
+2160,Spanish,dioss,dios,1
+2158,Spanish,diita,diíta,1
+2162,Spanish,dormiir,dormir,1
+2163,Spanish,dormistes,dormiste,1
+2167,Spanish,duxita,duchita,1
+2151,Spanish,diaaa,día,1
+2155,Spanish,diiia,día,1
+2214,Spanish,hechar,echar,1
+2215,Spanish,hechoo,echo,1
+2191,Spanish,exoo,echo,1
+2169,Spanish,educacion,educación,1
+2171,Spanish,egocentrico,egocéntrico,1
+2170,Spanish,eem,eh,1
+2172,Spanish,em,eh,1
+2431,Spanish,rl,el,1
+2173,Spanish,empiieza,empieza,1
+2174,Spanish,encantodo,encantado,1
+2175,Spanish,encendioo,encendido,1
+2176,Spanish,energias,energías,1
+2177,Spanish,enteraa,entera,1
+2178,Spanish,entierrro,entierro,1
+2179,Spanish,envie,envíe,1
+2184,Spanish,esque,es_que,2
+2182,Spanish,esq,es_que,2
+2180,Spanish,esk,es_que,1
+2183,Spanish,esqe,es_que,1
+2192,Spanish,eza,esa,1
+2143,Spanish,cuuxamee,escúchame,1
+2181,Spanish,esperaa,espera,1
+2186,Spanish,estaa,esta,1
+2189,Spanish,estaras,estarás,1
+2190,Spanish,estoi,estoy,2
+2187,Spanish,estais,estáis,1
+2188,Spanish,estan,están,2
+2436,Spanish,sageraaaá,exagerada,1
+2193,Spanish,facturaaa,factura,1
+2194,Spanish,faltao,faltado,1
+2195,Spanish,feaa,fea,1
+2196,Spanish,feeaaa,fea,1
+2198,Spanish,finnnn,fin,1
+2203,Spanish,fyqqqq,fin,1
+2197,Spanish,finde,fin_de_semana,2
+2199,Spanish,firefoxos,firefox_os,1
+2200,Spanish,fisica,física,1
+2263,Spanish,jilipollas,gilipollas,1
+2208,Spanish,gravais,grabáis,1
+2205,Spanish,graciiaaaaa,gracia,1
+2206,Spanish,graciias,gracias,2
+2204,Spanish,graciaas,gracias,1
+2207,Spanish,grandullonaa,grandullona,1
+2209,Spanish,guapaaa,guapa,1
+2506,Spanish,wapita,guapita,1
+2210,Spanish,gustaria,gustaría,1
+2211,Spanish,habra,habrá,2
+2212,Spanish,habras,habrás,1
+2058,Spanish,acer,hacer,1
+2087,Spanish,aseh,haces,1
+2084,Spanish,artando,hartando,1
+2085,Spanish,artica,hartica,1
+2213,Spanish,haria,haría,1
+2185,Spanish,esquivocao,he_equivocado,1
+2168,Spanish,echoo,hecho,1
+2216,Spanish,hems,hemos,1
+2217,Spanish,hermaanito,hermanito,1
+2222,Spanish,ija,hija,1
+2355,Spanish,orda,horda,1
+2218,Spanish,hooy,hoy,1
+2272,Spanish,juum,hum,1
+2220,Spanish,icon,icono,1
+2224,Spanish,imbeciles,imbéciles,1
+2225,Spanish,inflaaa,inflada,1
+2226,Spanish,info,información,1
+2227,Spanish,insti,instituto,2
+2229,Spanish,inviyado,invitado,1
+2228,Spanish,invitooo,invito,1
+2231,Spanish,iraaaaaaa,ira,1
+2232,Spanish,ire,iré,1
+2233,Spanish,isabel,isabella,1
+2241,Spanish,jajajaj,ja,4
+2244,Spanish,jajajajaj,ja,3
+2240,Spanish,jajajaa,ja,3
+2255,Spanish,jajajjaja,ja,2
+2246,Spanish,jajajajajaj,ja,2
+2239,Spanish,jajaj,ja,2
+2254,Spanish,jajajja,ja,1
+2257,Spanish,jajjajajaaj,ja,1
+2258,Spanish,jajjajajajajajajajajajajajajajajajajajajajajaja,ja,1
+2259,Spanish,jajjajjajja,ja,1
+2252,Spanish,jajajajajjajaj,ja,1
+2253,Spanish,jajajj,ja,1
+2251,Spanish,jajajajajjaja,ja,1
+2237,Spanish,jajaa,ja,1
+2234,Spanish,jaaja,ja,1
+2235,Spanish,jaajja,ja,1
+2238,Spanish,jajaaa,ja,1
+2250,Spanish,jajajajajes,ja,1
+2242,Spanish,jajajajaaja,ja,1
+2243,Spanish,jajajajaajajaja,ja,1
+2245,Spanish,jajajajajaajaja,ja,1
+2247,Spanish,jajajajajajajajajjajajajajajaja,ja,1
+2248,Spanish,jajajajajajajjaaj,ja,1
+2249,Spanish,jajajajajajjajajaja,ja,1
+2056,Spanish,aajajajajajajajaj,ja,1
+2063,Spanish,ajajajajajaa,ja,1
+2064,Spanish,ajajajjaja,ja,1
+2256,Spanish,jajajpero,ja_pero,1
+2236,Spanish,jaen,jaén,1
+2261,Spanish,jejejjej,je,1
+2260,Spanish,jejej,je,1
+2262,Spanish,jijiji,ji,1
+2270,Spanish,jooo,jo,1
+2269,Spanish,joo,jo,1
+2265,Spanish,joddeeeer,joder,1
+2266,Spanish,jodee,joder,1
+2267,Spanish,joe,joder,1
+2268,Spanish,joeee,joder,1
+2264,Spanish,jodais,jodáis,1
+2271,Spanish,jujuuuuu,ju,1
+2281,Spanish,laa,la,2
+2357,Spanish,pa,la,1
+2283,Spanish,lasombradelolivo,la_sombra_del_olivo,1
+2282,Spanish,largittaa,larguita,1
+2284,Spanish,leido,leído,1
+2285,Spanish,libradoo,librado,1
+2288,Spanish,llamda,llamada,1
+2289,Spanish,llege,llegue,2
+2290,Spanish,loquiii,loquita,1
+2291,Spanish,lîa,lía,1
+2286,Spanish,lies,líes,1
+2287,Spanish,lio,lío,2
+2293,Spanish,madrugueis,madruguéis,1
+2294,Spanish,malisimos,malísimos,1
+2295,Spanish,mami,mamá,2
+2298,Spanish,marideblasico,mari_de_blasico,1
+2297,Spanish,maricon,maricón,1
+2299,Spanish,martess,martes,1
+2296,Spanish,maria,maría,1
+2300,Spanish,matematicas,matemáticas,1
+2327,Spanish,myoria,mayoría,1
+2292,Spanish,maazooo,mazo,1
+2301,Spanish,mañanaa,mañana,1
+2331,Spanish,mñana,mañana,1
+2332,Spanish,mñn,mañana,1
+2333,Spanish,mñna,mañana,1
+2303,Spanish,menooss,menos,1
+2304,Spanish,meoooo,meo,1
+2305,Spanish,merecias,merecías,1
+2315,Spanish,miriendar,merendar,1
+2306,Spanish,metias,metías,1
+2311,Spanish,mila,milá,1
+2317,Spanish,mongolitaa,mongolita,1
+2319,Spanish,muack,mua,1
+2320,Spanish,muacks,mua,1
+2321,Spanish,muaxh,mua,1
+2324,Spanish,muchoo,mucho,2
+2302,Spanish,mcho,mucho,1
+2322,Spanish,muchisimas,muchísimas,1
+2323,Spanish,muchisimo,muchísimo,2
+2325,Spanish,mui,muy,1
+2326,Spanish,muu,muy,1
+2328,Spanish,má,más,2
+2329,Spanish,máx.,máxima,1
+2309,Spanish,miii,mí,2
+2308,Spanish,mii,mí,1
+2310,Spanish,miiii,mí,1
+2307,Spanish,mia,mía,4
+2330,Spanish,mín.,mínima,1
+2312,Spanish,mio,mío,1
+2313,Spanish,mioo,mío,1
+2314,Spanish,miriam,míriam,2
+2316,Spanish,mobil,móvil,1
+2318,Spanish,mooovil,móvil,1
+2335,Spanish,nadaa,nada,2
+2334,Spanish,na,nada,1
+2336,Spanish,nadiee,nadie,1
+2338,Spanish,naturá,natural,1
+2341,Spanish,nenee,nene,1
+2342,Spanish,ninia,niña,1
+2343,Spanish,niññño,niño,1
+2346,Spanish,noo,no,5
+2348,Spanish,noooo,no,1
+2347,Spanish,nooo,no,1
+2349,Spanish,nose,no_sé,1
+2339,Spanish,nbeeeaaa,no_veas,1
+2344,Spanish,nochee,noche,1
+2351,Spanish,noxe,noche,1
+2345,Spanish,nochess,noches,1
+2340,Spanish,ncheees,noches,1
+2352,Spanish,ns,nos,1
+2350,Spanish,nosotrs,nosotros,1
+2354,Spanish,ooogggg,oh,1
+2353,Spanish,ojiyo,ojillo,1
+2356,Spanish,otraa,otra,1
+2368,Spanish,pd,p.d.,1
+2358,Spanish,pa,para,9
+2397,Spanish,pr,para,1
+2361,Spanish,part,parte,1
+2362,Spanish,parti,partir,1
+2363,Spanish,partoo,parto,1
+2364,Spanish,pasaa,pasa,1
+2366,Spanish,pasao,pasado,1
+2365,Spanish,pasandoo,pasando,1
+2367,Spanish,pasarmeloo,pasármelo,1
+2359,Spanish,pais,país,1
+2360,Spanish,paises,países,1
+2369,Spanish,pechá,pechada,1
+2370,Spanish,pedrin,pedrín,1
+2371,Spanish,peli,película,3
+2372,Spanish,pelicula,película,1
+2386,Spanish,pnsao,pensado,1
+2373,Spanish,pense,pensé,1
+2374,Spanish,pequeñooo,pequeño,1
+2375,Spanish,perdon,perdón,1
+2376,Spanish,perfectooo,perfecto,1
+2377,Spanish,peroo,pero,1
+2378,Spanish,pesadosss,pesados,1
+2381,Spanish,piemontese,piamontesa,1
+2380,Spanish,piazon,piazón,1
+2382,Spanish,pien,pie,1
+2383,Spanish,piie,pie,1
+2384,Spanish,pillao,pillado,1
+2385,Spanish,piolin,piolín,1
+2388,Spanish,poblacion,población,1
+2389,Spanish,podremosss,podremos,1
+2391,Spanish,polvooooo,polvo,1
+2390,Spanish,pokitin,poquitín,1
+2387,Spanish,po,por,1
+2393,Spanish,porai,por_ahí,1
+2509,Spanish,xk,porque,1
+2510,Spanish,xq,porque,1
+2394,Spanish,porqe,porque,1
+2398,Spanish,preparao,preparado,1
+2399,Spanish,priiimito,primito,1
+2400,Spanish,primoo,primo,1
+2404,Spanish,pueblooo,pueblo,1
+2403,Spanish,puebli,pueblo,1
+2392,Spanish,poos,pues,1
+2395,Spanish,pos,pues,1
+2401,Spanish,ps,pues,1
+2408,Spanish,puuues,pues,1
+2379,Spanish,pf,puf,1
+2396,Spanish,pppff,puf,1
+2405,Spanish,pufff,puf,1
+2407,Spanish,puuff,puf,1
+2402,Spanish,ptos,puntos,1
+2406,Spanish,putooo,puto,1
+2409,Spanish,pùrpura,púrpura,1
+2410,Spanish,qe,que,5
+2273,Spanish,ke,que,3
+2420,Spanish,qur,que,1
+2414,Spanish,quee,que,1
+2275,Spanish,kedan,quedan,1
+2412,Spanish,qedar,quedar,1
+2415,Spanish,quereis,queréis,1
+2416,Spanish,queria,quería,1
+2278,Spanish,kiero,quiero,4
+2418,Spanish,quieeeeero,quiero,1
+2419,Spanish,quierooo,quiero,1
+2413,Spanish,qiero,quiero,1
+2274,Spanish,ke,qué,1
+2276,Spanish,kee,qué,1
+2411,Spanish,qe,qué,1
+2277,Spanish,ker,qué_es,1
+2280,Spanish,ktal,qué_tal,1
+2417,Spanish,queva,qué_va,2
+2422,Spanish,razon,razón,1
+2423,Spanish,rbts,rebotes,1
+2426,Spanish,resiien,recién,1
+2424,Spanish,regalilloss,regalillos,1
+2425,Spanish,relaax,relax,1
+2427,Spanish,retuiteao,retuiteado,1
+2428,Spanish,retwitear,retwittear,1
+2433,Spanish,roomeeriiia,romería,1
+2432,Spanish,romeria,romería,1
+2434,Spanish,rt's,rts,1
+2435,Spanish,rubiaa,rubia,1
+2421,Spanish,rapidas,rápidas,1
+2429,Spanish,rie,ríe,2
+2430,Spanish,rio,río,1
+2437,Spanish,sandungero,sandunguero,1
+2438,Spanish,santaa,santa,1
+2439,Spanish,segir,seguir,1
+2440,Spanish,seguime,seguirme,1
+2441,Spanish,seguiras,seguirás,1
+2442,Spanish,semama,semana,1
+2443,Spanish,sentao,sentado,1
+2444,Spanish,senti,sentí,1
+2445,Spanish,sepaaas,sepas,1
+2446,Spanish,seño,señor,1
+2447,Spanish,señooooor,señor,1
+2450,Spanish,siii,si,1
+2448,Spanish,siges,sigues,1
+2452,Spanish,sintio,sintió,1
+2453,Spanish,soi,soy,1
+2449,Spanish,sii,sí,4
+2451,Spanish,siii,sí,3
+2454,Spanish,tamagochi,tamagotchi,1
+2455,Spanish,tambien,también,5
+2456,Spanish,tambiien,también,1
+2457,Spanish,tb,también,1
+2460,Spanish,tee,te,1
+2459,Spanish,teamo,te_amo,1
+2465,Spanish,tequieroo,te_quiero,1
+2478,Spanish,tq,te_quiero,1
+2464,Spanish,tequieromucho,te_quiero_mucho,1
+2470,Spanish,tkmmmmmmm,te_quiero_mucho,1
+2201,Spanish,fono,teléfono,1
+2461,Spanish,tendre,tendré,2
+2463,Spanish,tenho,tengo,1
+2462,Spanish,teneis,tenéis,1
+2471,Spanish,tneis,tenéis,1
+2466,Spanish,terroristahhh,terroristas,1
+2468,Spanish,tii,ti,1
+2474,Spanish,tocaa,toca,1
+2472,Spanish,to,toda,3
+2476,Spanish,todavia,todavía,1
+2473,Spanish,to,todo,2
+2458,Spanish,tds,todos,1
+2475,Spanish,tod@s,todos_y_todas,1
+2477,Spanish,tonnnntica,tontica,1
+2479,Spanish,traere,traeré,1
+2481,Spanish,trayó,tragó,2
+2480,Spanish,tranquileo,tranquilidad,1
+2483,Spanish,trompezar,tropezar,1
+2482,Spanish,triceps,tríceps,1
+2486,Spanish,tube,tuve,1
+2488,Spanish,twitaaaah,twitter,1
+2489,Spanish,twitteer,twitter,1
+2467,Spanish,tia,tía,1
+2469,Spanish,tio,tío,3
+2487,Spanish,tuu,tú,5
+2490,Spanish,uff,uf,1
+2493,Spanish,unaa,una,1
+2494,Spanish,unaaaaaaaaaaa,una,1
+2219,Spanish,huuuuyy,uy,1
+2491,Spanish,uiii,uy,1
+2076,Spanish,amoss,vamos,1
+2497,Spanish,veen,ven,1
+2496,Spanish,veeeeeeeen,ven,1
+2498,Spanish,vereis,veréis,1
+2499,Spanish,vidaaa,vida,1
+2503,Spanish,volveras,volverás,1
+2505,Spanish,vosotrs,vosotros,1
+2501,Spanish,voi,voy,2
+2500,Spanish,vo,voy,1
+2502,Spanish,voii,voy,1
+2504,Spanish,vooy,voy,1
+2507,Spanish,wpp,whatsapp,1
+2508,Spanish,xaaanadu,xanadú,1
+2511,Spanish,yaa,ya,2
+2512,Spanish,yaaaa,ya,1
+2230,Spanish,io,yo,1
+2513,Spanish,yoo,yo,1
+2514,Spanish,yoppp,yo,1
+2516,Spanish,zombies,zombis,1
+2515,Spanish,zodiac,zódiac,1
+2221,Spanish,idolo,ídolo,1
+2223,Spanish,iker,íker,1
+2492,Spanish,ultimamente,últimamente,1
+2495,Spanish,unico,único,1
